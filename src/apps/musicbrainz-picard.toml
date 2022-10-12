@@ -1,0 +1,7 @@
+[app]
+name = "MusicBrainz Picard"
+
+[app.path]
+linux = ["$HOME/.config/musicbrainz"]
+macos = ["$HOME/.config/musicbrainz"]
+windows = []

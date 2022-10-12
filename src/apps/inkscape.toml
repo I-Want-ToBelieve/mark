@@ -1,0 +1,7 @@
+[app]
+name = "inkscape"
+
+[app.path]
+linux = ["$HOME/.config/inkscape/preferences.xml"]
+macos = ["$HOME/.config/inkscape/preferences.xml"]
+windows = []

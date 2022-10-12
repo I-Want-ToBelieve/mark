@@ -1,0 +1,7 @@
+[app]
+name = "JSHint"
+
+[app.path]
+linux = ["$HOME/.jshintrc"]
+macos = ["$HOME/.jshintrc"]
+windows = []

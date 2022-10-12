@@ -1,0 +1,7 @@
+[app]
+name = "Max"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.sbooth.max.plist"]
+windows = []

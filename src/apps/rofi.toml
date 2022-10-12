@@ -1,0 +1,7 @@
+[app]
+name = "rofi"
+
+[app.path]
+linux = ["$HOME/.config/rofi/config.rasi"]
+macos = ["$HOME/.config/rofi/config.rasi"]
+windows = []

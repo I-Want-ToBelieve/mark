@@ -1,0 +1,7 @@
+[app]
+name = "Beets"
+
+[app.path]
+linux = ["$HOME/.config/beets/config.yaml"]
+macos = ["$HOME/.config/beets/config.yaml"]
+windows = []

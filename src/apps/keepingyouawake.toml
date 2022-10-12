@@ -1,0 +1,7 @@
+[app]
+name = "KeepingYouAwake"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/info.marcel-dierkes.keepingyouawake.plist"]
+windows = []

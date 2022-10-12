@@ -1,0 +1,7 @@
+[app]
+name = "kindaVim"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/mo.com.sleeplessmind.kindavim.plist"]
+windows = []

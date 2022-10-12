@@ -1,0 +1,7 @@
+[app]
+name = "Bat"
+
+[app.path]
+linux = ["$HOME/.config/bat/config"]
+macos = ["$HOME/.config/bat/config"]
+windows = []

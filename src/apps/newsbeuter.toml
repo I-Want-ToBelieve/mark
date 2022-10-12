@@ -1,0 +1,7 @@
+[app]
+name = "newsbeuter"
+
+[app.path]
+linux = ["$HOME/.newsbeuter/urls", "$HOME/.newsbeuter/config"]
+macos = ["$HOME/.newsbeuter/urls", "$HOME/.newsbeuter/config"]
+windows = []

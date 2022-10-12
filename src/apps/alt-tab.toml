@@ -1,0 +1,7 @@
+[app]
+name = "AltTab"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.lwouis.alt-tab-macos.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Bash it"
+
+[app.path]
+linux = ["$HOME/.bash_it/enabled"]
+macos = ["$HOME/.bash_it/enabled"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Homebrew"
+
+[app.path]
+linux = ["$HOME/.brewfile"]
+macos = ["$HOME/.brewfile"]
+windows = []

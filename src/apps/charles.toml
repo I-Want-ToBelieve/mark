@@ -1,0 +1,7 @@
+[app]
+name = "Charles"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.xk72.charles.config", "$HOME/library/application support/charles"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Skim"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/net.sourceforge.skim-app.skim.plist"]
+windows = []

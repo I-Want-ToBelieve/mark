@@ -1,0 +1,7 @@
+[app]
+name = "Apptivate"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/apptivate/hotkeys"]
+windows = []

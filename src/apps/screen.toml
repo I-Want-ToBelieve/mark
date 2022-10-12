@@ -1,0 +1,7 @@
+[app]
+name = "Screen"
+
+[app.path]
+linux = ["$HOME/.screenrc"]
+macos = ["$HOME/.screenrc"]
+windows = []

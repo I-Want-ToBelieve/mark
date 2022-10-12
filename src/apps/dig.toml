@@ -1,0 +1,7 @@
+[app]
+name = "dig"
+
+[app.path]
+linux = ["$HOME/.digrc"]
+macos = ["$HOME/.digrc"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Goku"
+
+[app.path]
+linux = ["$HOME/.config/karabiner.edn"]
+macos = ["$HOME/.config/karabiner.edn"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Pandoc"
+
+[app.path]
+linux = ["$HOME/.pandoc"]
+macos = ["$HOME/.pandoc"]
+windows = []

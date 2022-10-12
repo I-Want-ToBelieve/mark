@@ -1,0 +1,7 @@
+[app]
+name = "PixelSnap 2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/pl.maketheweb.pixelsnap2.plist"]
+windows = []

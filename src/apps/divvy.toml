@@ -1,0 +1,7 @@
+[app]
+name = "Divvy"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.mizage.direct.divvy.plist", "$HOME/library/preferences/com.mizage.divvy.plist"]
+windows = []

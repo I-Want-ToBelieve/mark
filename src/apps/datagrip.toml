@@ -1,0 +1,7 @@
+[app]
+name = "DataGrip"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/datagrip2018.1", "$HOME/library/preferences/datagrip2018.2", "$HOME/library/application support/datagrip2019.1", "$HOME/library/preferences/datagrip2019.1", "$HOME/library/application support/datagrip2018.3", "$HOME/library/application support/datagrip2018.2", "$HOME/library/preferences/datagrip2017.3", "$HOME/library/application support/datagrip2017.3", "$HOME/library/preferences/datagrip2018.3", "$HOME/library/application support/datagrip2018.1", "$HOME/library/preferences/datagrip2019.2"]
+windows = []

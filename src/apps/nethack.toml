@@ -1,0 +1,7 @@
+[app]
+name = "Nethack"
+
+[app.path]
+linux = ["$HOME/.nethackrc"]
+macos = ["$HOME/.nethackrc"]
+windows = []

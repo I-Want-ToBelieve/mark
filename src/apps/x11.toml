@@ -1,0 +1,7 @@
+[app]
+name = "X11"
+
+[app.path]
+linux = ["$HOME/.xinitrc", "$HOME/.xmodmap", "$HOME/.fonts", "$HOME/.xresources"]
+macos = ["$HOME/.xinitrc", "$HOME/.xmodmap", "$HOME/.fonts", "$HOME/.xresources"]
+windows = []

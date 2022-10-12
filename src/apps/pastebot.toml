@@ -1,0 +1,7 @@
+[app]
+name = "Pastebot"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.tapbots.pastebotsync.plist", "$HOME/library/preferences/com.tapbots.pastebotsync.prefpane.plist", "$HOME/library/preferences/com.tapbots.pastebotsync.stats.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "PyCharm"
+
+[app.path]
+linux = ["$HOME/.pycharm2016.1/config", "$HOME/.pycharmce2019.3/config", "$HOME/.pycharm2016.2/config", "$HOME/.pycharm40/config", "$HOME/.pycharm50/config"]
+macos = ["$HOME/library/preferences/pycharm2016.2", "$HOME/library/preferences/pycharm40", "$HOME/library/preferences/pycharm50", "$HOME/library/application support/jetbrains/pycharmce2020.1", "$HOME/library/application support/jetbrains/pycharm2020.2", "$HOME/.pycharm2016.1/config", "$HOME/library/application support/pycharm2019.3", "$HOME/library/application support/pycharm2016.2", "$HOME/library/application support/pycharm2016.1", "$HOME/.pycharmce2019.3/config", "$HOME/library/application support/pycharm40", "$HOME/library/preferences/pycharm2019.2", "$HOME/library/preferences/pycharm2019.3", "$HOME/.pycharm2016.2/config", "$HOME/library/application support/jetbrains/pycharm2020.4", "$HOME/library/application support/pycharm50", "$HOME/library/application support/pycharm2019.2", "$HOME/library/application support/jetbrains/pycharm2020.3", "$HOME/library/application support/jetbrains/pycharm2020.1", "$HOME/library/application support/pycharm", "$HOME/library/preferences/pycharm2016.1", "$HOME/.pycharm40/config", "$HOME/.pycharm50/config"]
+windows = []

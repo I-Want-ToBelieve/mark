@@ -1,0 +1,7 @@
+[app]
+name = "Spotify"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.spotify.client.plist"]
+windows = []

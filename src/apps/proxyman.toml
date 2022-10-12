@@ -1,0 +1,7 @@
+[app]
+name = "Proxyman"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.proxyman.nsproxy.plist", "$HOME/library/application support/com.proxyman.nsproxy-setapp", "$HOME/library/application support/com.proxyman.nsproxy", "$HOME/library/preferences/com.proxyman.nsproxy-setapp.plist"]
+windows = []

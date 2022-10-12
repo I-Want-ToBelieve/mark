@@ -1,0 +1,7 @@
+[app]
+name = "Xamarin Studio 5"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/xamarinstudio-5.0"]
+windows = []

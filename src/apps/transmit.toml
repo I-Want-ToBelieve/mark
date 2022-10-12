@@ -1,0 +1,7 @@
+[app]
+name = "Transmit"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/transmit/favorites", "$HOME/library/preferences/com.panic.transmit.plist", "$HOME/library/application support/transmit/metadata"]
+windows = []

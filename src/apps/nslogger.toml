@@ -1,0 +1,7 @@
+[app]
+name = "NSLogger"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.florentpillet.nslogger.plist"]
+windows = []

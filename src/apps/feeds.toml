@@ -1,0 +1,7 @@
+[app]
+name = "Feeds"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.feedsapp.feeds.plist"]
+windows = []

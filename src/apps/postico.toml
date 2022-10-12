@@ -1,0 +1,7 @@
+[app]
+name = "Postico"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/at.eggerapps.postico.plist"]
+windows = []

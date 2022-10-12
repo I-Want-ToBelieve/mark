@@ -1,0 +1,7 @@
+[app]
+name = "GoShare"
+
+[app.path]
+linux = ["$HOME/.config/dictget/goshare"]
+macos = ["$HOME/.config/dictget/goshare"]
+windows = []

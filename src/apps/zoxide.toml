@@ -1,0 +1,7 @@
+[app]
+name = "zoxide"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/zoxide"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Swinsian"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/swinsian/library.sqlite", "$HOME/library/preferences/com.swinsian.swinsiandesktopwindow.plist", "$HOME/library/preferences/com.swinsian.swinsian.plist", "$HOME/library/application support/swinsian/license.swinsianlicense"]
+windows = []

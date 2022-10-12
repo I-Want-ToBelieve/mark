@@ -1,0 +1,7 @@
+[app]
+name = "Concentrate"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/concentrate/concentrate.sqlite3"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Go2Shell"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.zipzapmac.go2shell.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Ubersicht"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/tracesof.uebersicht.plist", "$HOME/library/application support/übersicht/widgets"]
+windows = []

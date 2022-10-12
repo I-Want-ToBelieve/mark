@@ -1,0 +1,7 @@
+[app]
+name = "Julia"
+
+[app.path]
+linux = ["$HOME/.juliarc.jl", "$HOME/.julia/config/startup.jl"]
+macos = ["$HOME/.juliarc.jl", "$HOME/.julia/config/startup.jl"]
+windows = []

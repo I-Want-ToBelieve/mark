@@ -1,0 +1,7 @@
+[app]
+name = "Cyberduck"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/cyberduck", "$HOME/library/preferences/ch.sudo.cyberduck.plist"]
+windows = []

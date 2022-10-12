@@ -1,0 +1,7 @@
+[app]
+name = "ForkLift"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.binarynights.forklift2.plist", "$HOME/library/application support/forklift/favorites/favorites.json", "$HOME/library/preferences/com.binarynights.forklift-3.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Vimperator"
+
+[app.path]
+linux = ["$HOME/.vimperatorrc", "$HOME/.vimperator"]
+macos = ["$HOME/.vimperatorrc", "$HOME/.vimperator"]
+windows = []

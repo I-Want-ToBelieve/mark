@@ -1,0 +1,7 @@
+[app]
+name = "Kaggle"
+
+[app.path]
+linux = ["$HOME/.kaggle/kaggle.json"]
+macos = ["$HOME/.kaggle/kaggle.json"]
+windows = []

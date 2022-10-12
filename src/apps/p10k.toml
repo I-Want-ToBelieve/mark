@@ -1,0 +1,7 @@
+[app]
+name = "Powerlevel10k"
+
+[app.path]
+linux = ["$HOME/.p10k.zsh"]
+macos = ["$HOME/.p10k.zsh"]
+windows = []

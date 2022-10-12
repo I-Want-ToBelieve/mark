@@ -1,0 +1,7 @@
+[app]
+name = "chunkwm"
+
+[app.path]
+linux = ["$HOME/.chunkwmrc", "$HOME/.chunkwm_plugins"]
+macos = ["$HOME/.chunkwmrc", "$HOME/.chunkwm_plugins"]
+windows = []

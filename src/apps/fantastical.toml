@@ -1,0 +1,7 @@
+[app]
+name = "Fantastical"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/containers/com.flexibits.fantastical2.mac/container.plist", "$HOME/library/preferences/com.flexibits.fantastical.plist"]
+windows = []

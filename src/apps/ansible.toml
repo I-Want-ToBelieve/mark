@@ -1,0 +1,7 @@
+[app]
+name = "Ansible"
+
+[app.path]
+linux = ["$HOME/.ansible", "$HOME/.ansible.cfg"]
+macos = ["$HOME/.ansible", "$HOME/.ansible.cfg"]
+windows = []

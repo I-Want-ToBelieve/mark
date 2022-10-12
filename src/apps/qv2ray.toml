@@ -1,0 +1,7 @@
+[app]
+name = "Qv2ray"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/qv2ray/qv2ray.conf", "$HOME/library/preferences/qv2ray/plugin_settings"]
+windows = []

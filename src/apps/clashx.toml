@@ -1,0 +1,7 @@
+[app]
+name = "clashX"
+
+[app.path]
+linux = ["$HOME/.config/clash"]
+macos = ["$HOME/.config/clash"]
+windows = []

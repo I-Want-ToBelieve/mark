@@ -1,0 +1,7 @@
+[app]
+name = "Planner"
+
+[app.path]
+linux = ["$HOME/.var/app/com.github.alainm23.planner/config", "$HOME/.var/app/com.github.alainm23.planner/data"]
+macos = ["$HOME/.var/app/com.github.alainm23.planner/config", "$HOME/.var/app/com.github.alainm23.planner/data"]
+windows = []

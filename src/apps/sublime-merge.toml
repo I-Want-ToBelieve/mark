@@ -1,0 +1,7 @@
+[app]
+name = "Sublime Merge"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/sublime merge/packages/user"]
+windows = []

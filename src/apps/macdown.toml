@@ -1,0 +1,7 @@
+[app]
+name = "MacDown"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.uranusjr.macdown.plist", "$HOME/library/application support/macdown/themes", "$HOME/library/application support/macdown/styles"]
+windows = []

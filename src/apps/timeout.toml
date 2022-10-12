@@ -1,0 +1,7 @@
+[app]
+name = "TimeOut"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/group containers/6z7qw53wb6.com.dejal.timeout"]
+windows = []

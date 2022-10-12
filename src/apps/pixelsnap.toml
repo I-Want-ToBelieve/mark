@@ -1,0 +1,7 @@
+[app]
+name = "PixelSnap"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.getpixelsnap.app.plist"]
+windows = []

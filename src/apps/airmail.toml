@@ -1,0 +1,7 @@
+[app]
+name = "Airmail"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/containers/it.bloop.airmail2/container.plist"]
+windows = []

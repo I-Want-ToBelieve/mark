@@ -1,0 +1,7 @@
+[app]
+name = "Xee"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/cx.c3.xee3.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Quitter"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.marcoarment.quitter.plist"]
+windows = []

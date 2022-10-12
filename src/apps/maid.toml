@@ -1,0 +1,7 @@
+[app]
+name = "Maid"
+
+[app.path]
+linux = ["$HOME/.maid"]
+macos = ["$HOME/.maid"]
+windows = []

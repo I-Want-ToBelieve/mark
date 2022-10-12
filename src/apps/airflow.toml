@@ -1,0 +1,7 @@
+[app]
+name = "Airflow"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/airflow", "$HOME/library/preferences/com.bitcavehq.airflow.plist"]
+windows = []

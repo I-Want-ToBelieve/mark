@@ -1,0 +1,7 @@
+[app]
+name = "SourceTree"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/sourcetree/sourcetree.license", "$HOME/library/application support/sourcetree/hgrc_sourcetree", "$HOME/library/application support/sourcetree/hostingservices.plist", "$HOME/library/application support/sourcetree/browser.plist"]
+windows = []

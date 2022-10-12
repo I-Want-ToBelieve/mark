@@ -1,0 +1,7 @@
+[app]
+name = "Git Hooks"
+
+[app.path]
+linux = ["$HOME/.git_hooks"]
+macos = ["$HOME/.git_hooks"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Enjoyable"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.yukkurigames.enjoyable.plist"]
+windows = []

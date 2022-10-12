@@ -1,0 +1,7 @@
+[app]
+name = "ESLint"
+
+[app.path]
+linux = ["$HOME/.eslintrc.yaml", "$HOME/.eslintrc.js", "$HOME/.eslintrc.json", "$HOME/.eslintrc.yml", "$HOME/.eslintrc", "$HOME/.eslintignore"]
+macos = ["$HOME/.eslintrc.yaml", "$HOME/.eslintrc.js", "$HOME/.eslintrc.json", "$HOME/.eslintrc.yml", "$HOME/.eslintrc", "$HOME/.eslintignore"]
+windows = []

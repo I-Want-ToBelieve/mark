@@ -1,0 +1,7 @@
+[app]
+name = "Houdini"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/houdini", "$HOME/library/preferences/com.uglyapps.houdini.plist"]
+windows = []

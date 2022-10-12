@@ -1,0 +1,7 @@
+[app]
+name = "BetterSnapTool"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.hegenberg.bettersnaptool.plist", "$HOME/library/application support/bettersnaptool"]
+windows = []

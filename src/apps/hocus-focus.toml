@@ -1,0 +1,7 @@
+[app]
+name = "Hocus Focus"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/com.uglyapps.hocusfocus/hocusfocus.db", "$HOME/library/application support/com.uglyapps.hocusfocus/hocusfocus.db-shm", "$HOME/library/preferences/com.uglyapps.hocusfocus.plist", "$HOME/library/application support/com.uglyapps.hocusfocus/hocusfocus.db-wal"]
+windows = []

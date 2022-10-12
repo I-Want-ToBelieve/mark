@@ -1,0 +1,7 @@
+[app]
+name = "Typora"
+
+[app.path]
+linux = ["$HOME/.config/typora/themes"]
+macos = ["$HOME/.config/typora/themes", "$HOME/library/application support/abnerworks.typora/themes"]
+windows = []

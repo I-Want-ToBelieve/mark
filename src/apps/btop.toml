@@ -1,0 +1,7 @@
+[app]
+name = "btop"
+
+[app.path]
+linux = ["$HOME/.config/btop"]
+macos = ["$HOME/.config/btop"]
+windows = []

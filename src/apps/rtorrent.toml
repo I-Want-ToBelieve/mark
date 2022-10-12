@@ -1,0 +1,7 @@
+[app]
+name = "rTorrent"
+
+[app.path]
+linux = ["$HOME/.rtorrent.rc"]
+macos = ["$HOME/.rtorrent.rc"]
+windows = []

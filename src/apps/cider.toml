@@ -1,0 +1,7 @@
+[app]
+name = "Cider"
+
+[app.path]
+linux = ["$HOME/.cider"]
+macos = ["$HOME/.cider"]
+windows = []

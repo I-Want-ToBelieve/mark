@@ -1,0 +1,7 @@
+[app]
+name = "Taskwarrior"
+
+[app.path]
+linux = ["$HOME/.taskrc"]
+macos = ["$HOME/.taskrc"]
+windows = []

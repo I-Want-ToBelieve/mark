@@ -1,0 +1,7 @@
+[app]
+name = "Zabbix CLI"
+
+[app.path]
+linux = ["$HOME/.zabbix-cli/zabbix-cli.conf"]
+macos = ["$HOME/.zabbix-cli/zabbix-cli.conf"]
+windows = []

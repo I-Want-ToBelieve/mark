@@ -1,0 +1,7 @@
+[app]
+name = "Luftrausers"
+
+[app.path]
+linux = ["$HOME/.luftrausers"]
+macos = ["$HOME/.luftrausers"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Homebridge"
+
+[app.path]
+linux = ["$HOME/.homebridge"]
+macos = ["$HOME/.homebridge"]
+windows = []

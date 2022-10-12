@@ -1,0 +1,7 @@
+[app]
+name = "nvpy"
+
+[app.path]
+linux = ["$HOME/.nvpy.cfg"]
+macos = ["$HOME/.nvpy.cfg"]
+windows = []

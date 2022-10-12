@@ -1,0 +1,7 @@
+[app]
+name = "Brackets"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/brackets", "$HOME/library/preferences/io.brackets.appshell.plist"]
+windows = []

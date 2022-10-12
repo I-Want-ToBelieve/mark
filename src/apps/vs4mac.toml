@@ -1,0 +1,7 @@
+[app]
+name = "Visual Studio for Mac"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/visualstudio/7.0/editinglayout.xml", "$HOME/library/preferences/visualstudio/8.0/monodevelopproperties.xml", "$HOME/library/preferences/visualstudio/7.0/monodevelopproperties.xml", "$HOME/library/preferences/visualstudio/8.0/editinglayout.xml", "$HOME/library/visualstudio"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Sublime Text"
+
+[app.path]
+linux = ["$HOME/.config/sublime-text/packages/user"]
+macos = ["$HOME/.config/sublime-text/packages/user", "$HOME/library/application support/sublime text/packages/user"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "LimeChat"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/net.limechat.limechat-appstore.plist"]
+windows = []

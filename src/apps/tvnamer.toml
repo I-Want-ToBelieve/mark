@@ -1,0 +1,7 @@
+[app]
+name = "tvnamer"
+
+[app.path]
+linux = ["$HOME/.tvnamer.json"]
+macos = ["$HOME/.tvnamer.json"]
+windows = []

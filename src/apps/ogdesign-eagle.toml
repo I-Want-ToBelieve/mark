@@ -1,0 +1,7 @@
+[app]
+name = "Eagle (ogdesign)"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/eagle/settings"]
+windows = []

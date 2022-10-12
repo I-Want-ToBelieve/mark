@@ -1,0 +1,7 @@
+[app]
+name = "FontExplorer X"
+
+[app.path]
+linux = ["$HOME/fontexplorer x"]
+macos = ["$HOME/fontexplorer x", "$HOME/library/application support/linotype/fontexplorer x"]
+windows = []

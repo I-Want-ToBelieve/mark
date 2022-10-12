@@ -1,0 +1,7 @@
+[app]
+name = "mkcert"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/mkcert"]
+windows = []

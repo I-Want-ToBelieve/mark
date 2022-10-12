@@ -1,0 +1,7 @@
+[app]
+name = "Jumpcut"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/net.sf.jumpcut.plist", "$HOME/library/application support/jumpcut"]
+windows = []

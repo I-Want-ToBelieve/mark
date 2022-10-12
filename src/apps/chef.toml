@@ -1,0 +1,7 @@
+[app]
+name = "Chef"
+
+[app.path]
+linux = ["$HOME/.chef"]
+macos = ["$HOME/.chef"]
+windows = []

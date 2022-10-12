@@ -1,0 +1,7 @@
+[app]
+name = "poetry"
+
+[app.path]
+linux = ["$HOME/.config/pypoetry/config.toml"]
+macos = ["$HOME/.config/pypoetry/config.toml", "$HOME/library/application support/pypoetry/config.toml"]
+windows = []

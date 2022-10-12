@@ -1,0 +1,7 @@
+[app]
+name = "Default Folder X"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.stclairsoft.defaultfolderx.favorites.plist", "$HOME/library/preferences/com.stclairsoft.defaultfolderx.plist", "$HOME/library/preferences/com.stclairsoft.defaultfolderx.settings.plist"]
+windows = []

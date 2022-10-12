@@ -1,0 +1,7 @@
+[app]
+name = "Fontconfig"
+
+[app.path]
+linux = ["$HOME/.config/fontconfig"]
+macos = ["$HOME/.config/fontconfig"]
+windows = []

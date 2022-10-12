@@ -1,0 +1,7 @@
+[app]
+name = "Jitouch"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.jitouch.jitouch.plist"]
+windows = []

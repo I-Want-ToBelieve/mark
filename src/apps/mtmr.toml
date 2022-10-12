@@ -1,0 +1,7 @@
+[app]
+name = "mtmr"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/mtmr/items.json"]
+windows = []

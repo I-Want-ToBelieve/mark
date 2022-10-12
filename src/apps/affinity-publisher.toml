@@ -1,0 +1,7 @@
+[app]
+name = "Affinity Publisher"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/containers/affinity publisher/data/library/application support/user"]
+windows = []

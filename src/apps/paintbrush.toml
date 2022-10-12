@@ -1,0 +1,7 @@
+[app]
+name = "Paintbrush"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.soggywaffles.paintbrush.plist"]
+windows = []

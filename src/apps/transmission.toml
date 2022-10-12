@@ -1,0 +1,7 @@
+[app]
+name = "Transmission"
+
+[app.path]
+linux = ["$HOME/.config/transmission/stats.json", "$HOME/.config/transmission/blocklists", "$HOME/.config/transmission/settings.json"]
+macos = ["$HOME/.config/transmission/stats.json", "$HOME/.config/transmission/blocklists", "$HOME/.config/transmission/settings.json", "$HOME/library/application support/transmission/blocklists", "$HOME/library/preferences/org.m0k.transmission.plist"]
+windows = []

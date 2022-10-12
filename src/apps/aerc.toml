@@ -1,0 +1,7 @@
+[app]
+name = "aerc"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/aerc"]
+windows = []

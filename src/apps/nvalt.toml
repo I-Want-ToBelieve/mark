@@ -1,0 +1,7 @@
+[app]
+name = "nvALT"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/notational velocity", "$HOME/library/preferences/net.elasticthreads.nv.plist"]
+windows = []

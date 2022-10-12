@@ -1,0 +1,7 @@
+[app]
+name = "CLion"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/clion2016.2", "$HOME/library/application support/clion2016.2"]
+windows = []

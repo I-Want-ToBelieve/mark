@@ -1,0 +1,7 @@
+[app]
+name = "mycli"
+
+[app.path]
+linux = ["$HOME/.myclirc"]
+macos = ["$HOME/.myclirc"]
+windows = []

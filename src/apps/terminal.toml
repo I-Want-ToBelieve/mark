@@ -1,0 +1,7 @@
+[app]
+name = "Terminal"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.apple.terminal.plist"]
+windows = []

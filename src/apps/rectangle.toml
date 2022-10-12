@@ -1,0 +1,7 @@
+[app]
+name = "Rectangle"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.knollsoft.rectangle.plist"]
+windows = []

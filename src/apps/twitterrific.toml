@@ -1,0 +1,7 @@
+[app]
+name = "Twitterrific"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/twitterrific"]
+windows = []

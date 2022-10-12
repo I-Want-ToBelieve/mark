@@ -1,0 +1,7 @@
+[app]
+name = "Scroll Reverser"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.pilotmoon.scroll-reverser.plist"]
+windows = []

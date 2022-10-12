@@ -1,0 +1,7 @@
+[app]
+name = "Ack"
+
+[app.path]
+linux = ["$HOME/.ackrc"]
+macos = ["$HOME/.ackrc"]
+windows = []

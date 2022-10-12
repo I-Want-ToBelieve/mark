@@ -1,0 +1,7 @@
+[app]
+name = "xbar"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/xbar/xbar.config.json", "$HOME/library/application support/xbar/plugins"]
+windows = []

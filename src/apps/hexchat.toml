@@ -1,0 +1,7 @@
+[app]
+name = "HexChat"
+
+[app.path]
+linux = ["$HOME/.config/hexchat"]
+macos = ["$HOME/.config/hexchat"]
+windows = []

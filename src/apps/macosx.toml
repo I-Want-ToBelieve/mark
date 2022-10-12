@@ -1,0 +1,7 @@
+[app]
+name = "MacOSX"
+
+[app.path]
+linux = ["$HOME/.macosx"]
+macos = ["$HOME/library/scripts", "$HOME/.macosx", "$HOME/library/speech/speakable items", "$HOME/library/workflows", "$HOME/library/keybindings/defaultkeybinding.dict", "$HOME/library/preferences/com.apple.symbolichotkeys.plist", "$HOME/library/pdf services"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Coda 2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.panic.coda2.plist", "$HOME/library/application support/coda 2"]
+windows = []

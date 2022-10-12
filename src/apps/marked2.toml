@@ -1,0 +1,7 @@
+[app]
+name = "Marked 2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.brettterpstra.marked2.plist", "$HOME/library/application support/marked 2"]
+windows = []

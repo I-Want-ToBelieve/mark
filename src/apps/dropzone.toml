@@ -1,0 +1,7 @@
+[app]
+name = "Dropzone 3"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/dropzone 3", "$HOME/library/preferences/com.aptonic.dropzone3.plist"]
+windows = []

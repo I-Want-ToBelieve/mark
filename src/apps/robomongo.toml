@@ -1,0 +1,7 @@
+[app]
+name = "Robomongo"
+
+[app.path]
+linux = ["$HOME/.config/robomongo"]
+macos = ["$HOME/.config/robomongo"]
+windows = []

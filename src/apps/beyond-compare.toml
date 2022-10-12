@@ -1,0 +1,7 @@
+[app]
+name = "Beyond Compare"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/beyond compare/bc4key.txt", "$HOME/library/preferences/com.scootersoftware.beyondcompare.plist", "$HOME/library/application support/beyond compare/bcpreferences.xml", "$HOME/library/application support/beyond compare/bccolors.xml", "$HOME/library/application support/beyond compare/bccommands.xml"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Scenario"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.lagente.scenario.plist", "$HOME/library/scenario"]
+windows = []

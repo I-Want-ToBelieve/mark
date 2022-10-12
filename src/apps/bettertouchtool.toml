@@ -1,0 +1,7 @@
+[app]
+name = "BetterTouchTool"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.hegenberg.bettertouchtool.plist", "$HOME/library/application support/bettertouchtool/bettersnaptool.bttlicense", "$HOME/library/application support/bettertouchtool/btt_data_store.v2-shm", "$HOME/library/application support/bettertouchtool/btt_data_store.v2", "$HOME/library/application support/bettertouchtool/btt_data_store.v2-wal", "$HOME/library/application support/bettertouchtool/bettertouchtool.license", "$HOME/library/application support/bettertouchtool/bttdata2"]
+windows = []

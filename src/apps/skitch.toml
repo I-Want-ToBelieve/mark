@@ -1,0 +1,7 @@
+[app]
+name = "Skitch"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.plasq.skitch.history", "$HOME/library/preferences/com.plasq.skitch.plist"]
+windows = []

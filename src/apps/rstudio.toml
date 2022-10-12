@@ -1,0 +1,7 @@
+[app]
+name = "RStudio"
+
+[app.path]
+linux = ["$HOME/.config/rstudio", "$HOME/.rstudio-desktop"]
+macos = ["$HOME/.config/rstudio", "$HOME/library/preferences/org.rstudio.rstudio.plist", "$HOME/.rstudio-desktop"]
+windows = []

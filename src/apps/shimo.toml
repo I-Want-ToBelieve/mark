@@ -1,0 +1,7 @@
+[app]
+name = "Shimo"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/shimo/shimoprofiles.xml", "$HOME/library/preferences/com.chungwasoft.shimo.plist"]
+windows = []

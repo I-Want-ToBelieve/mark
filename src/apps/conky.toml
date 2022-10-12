@@ -1,0 +1,7 @@
+[app]
+name = "Conky"
+
+[app.path]
+linux = ["$HOME/.conkyrc"]
+macos = ["$HOME/.conkyrc"]
+windows = []

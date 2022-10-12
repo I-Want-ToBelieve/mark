@@ -1,0 +1,7 @@
+[app]
+name = "ShiftIt"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.shiftitapp.shiftit.plist"]
+windows = []

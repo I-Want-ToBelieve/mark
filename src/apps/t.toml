@@ -1,0 +1,7 @@
+[app]
+name = "t"
+
+[app.path]
+linux = ["$HOME/.trc"]
+macos = ["$HOME/.trc"]
+windows = []

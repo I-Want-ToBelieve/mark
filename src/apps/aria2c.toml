@@ -1,0 +1,7 @@
+[app]
+name = "aria2c"
+
+[app.path]
+linux = ["$HOME/.config/aria2", "$HOME/.aria2"]
+macos = ["$HOME/.config/aria2", "$HOME/.aria2"]
+windows = []

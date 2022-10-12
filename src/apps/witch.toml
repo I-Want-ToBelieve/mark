@@ -1,0 +1,7 @@
+[app]
+name = "Witch"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.manytricks.witch.plist"]
+windows = []

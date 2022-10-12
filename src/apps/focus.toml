@@ -1,0 +1,7 @@
+[app]
+name = "Focus"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/focus/default.cfg"]
+windows = []

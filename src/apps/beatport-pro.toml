@@ -1,0 +1,7 @@
+[app]
+name = "Beatport Pro"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.beatport.beatportpro.plist"]
+windows = []

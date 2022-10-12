@@ -1,0 +1,7 @@
+[app]
+name = "GeekTool"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.tynsoe.geeklet.image.plist", "$HOME/library/preferences/org.tynsoe.geeklet.file.plist", "$HOME/library/preferences/org.tynsoe.geektool3.plist", "$HOME/library/preferences/org.tynsoe.geektool.plist", "$HOME/library/preferences/org.tynsoe.geeklet.shell.plist"]
+windows = []

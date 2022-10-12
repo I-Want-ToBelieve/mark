@@ -1,0 +1,7 @@
+[app]
+name = "Ulauncher"
+
+[app.path]
+linux = ["$HOME/.config/ulauncher/settings.json", "$HOME/.config/ulauncher/shortcuts.json", "$HOME/.config/ulauncher/extensions.json"]
+macos = ["$HOME/.config/ulauncher/settings.json", "$HOME/.config/ulauncher/shortcuts.json", "$HOME/.config/ulauncher/extensions.json"]
+windows = []

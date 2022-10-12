@@ -1,0 +1,7 @@
+[app]
+name = "AppCleaner"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/net.freemacsoft.appcleaner-smartdelete.plist", "$HOME/library/preferences/net.freemacsoft.appcleaner.plist"]
+windows = []

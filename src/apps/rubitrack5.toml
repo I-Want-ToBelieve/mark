@@ -1,0 +1,7 @@
+[app]
+name = "rubiTrack 5"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.shiftoption.rubitrack5.pro.plist"]
+windows = []

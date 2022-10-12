@@ -1,0 +1,7 @@
+[app]
+name = "mpd"
+
+[app.path]
+linux = ["$HOME/.mpd", "$HOME/.mpdconf"]
+macos = ["$HOME/.mpd", "$HOME/.mpdconf"]
+windows = []

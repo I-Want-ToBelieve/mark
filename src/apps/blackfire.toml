@@ -1,0 +1,7 @@
+[app]
+name = "Blackfire"
+
+[app.path]
+linux = ["$HOME/.blackfire.ini"]
+macos = ["$HOME/.blackfire.ini"]
+windows = []

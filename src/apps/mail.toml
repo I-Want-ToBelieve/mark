@@ -1,0 +1,7 @@
+[app]
+name = "Mail"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.apple.mail.plist"]
+windows = []

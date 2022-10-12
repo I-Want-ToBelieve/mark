@@ -1,0 +1,7 @@
+[app]
+name = "Splice"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.splice.splice.plist"]
+windows = []

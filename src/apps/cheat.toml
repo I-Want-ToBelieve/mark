@@ -1,0 +1,7 @@
+[app]
+name = "Cheat"
+
+[app.path]
+linux = ["$HOME/.config/cheat/conf.yml", "$HOME/.cheat"]
+macos = ["$HOME/.config/cheat/conf.yml", "$HOME/.cheat"]
+windows = []

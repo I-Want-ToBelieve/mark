@@ -1,0 +1,7 @@
+[app]
+name = "Flux"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.herf.flux.plist"]
+windows = []

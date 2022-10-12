@@ -1,0 +1,7 @@
+[app]
+name = "EditorConfig"
+
+[app.path]
+linux = ["$HOME/.editorconfig"]
+macos = ["$HOME/.editorconfig"]
+windows = []

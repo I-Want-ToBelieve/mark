@@ -1,0 +1,7 @@
+[app]
+name = "Pentadactyl"
+
+[app.path]
+linux = ["$HOME/.pentadactyl", "$HOME/.pentadactylrc"]
+macos = ["$HOME/.pentadactyl", "$HOME/.pentadactylrc"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Mendelay Desktop"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/mendeley desktop"]
+windows = []

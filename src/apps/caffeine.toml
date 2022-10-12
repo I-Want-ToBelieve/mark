@@ -1,0 +1,7 @@
+[app]
+name = "Caffeine"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.lightheadsw.caffeine.plist"]
+windows = []

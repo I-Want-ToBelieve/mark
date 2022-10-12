@@ -1,0 +1,7 @@
+[app]
+name = "Clipy"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.clipy-app.clipy.plist"]
+windows = []

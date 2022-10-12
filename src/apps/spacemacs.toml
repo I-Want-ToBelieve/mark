@@ -1,0 +1,7 @@
+[app]
+name = "Spacemacs"
+
+[app.path]
+linux = ["$HOME/.spacemacs.d", "$HOME/.spacemacs"]
+macos = ["$HOME/.spacemacs.d", "$HOME/.spacemacs"]
+windows = []

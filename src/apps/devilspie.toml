@@ -1,0 +1,7 @@
+[app]
+name = "Devil's Pie"
+
+[app.path]
+linux = ["$HOME/.devilspie"]
+macos = ["$HOME/.devilspie"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Arara"
+
+[app.path]
+linux = ["$HOME/.araraconfig.yaml", "$HOME/araraconfig.yaml"]
+macos = ["$HOME/.araraconfig.yaml", "$HOME/araraconfig.yaml"]
+windows = []

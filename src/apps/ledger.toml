@@ -1,0 +1,7 @@
+[app]
+name = "ledger"
+
+[app.path]
+linux = ["$HOME/.ledgerrc"]
+macos = ["$HOME/.ledgerrc"]
+windows = []

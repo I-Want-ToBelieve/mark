@@ -1,0 +1,7 @@
+[app]
+name = "espanso"
+
+[app.path]
+linux = ["$HOME/.config/espanso"]
+macos = ["$HOME/.config/espanso", "$HOME/library/application support/espanso", "$HOME/library/preferences/espanso"]
+windows = []

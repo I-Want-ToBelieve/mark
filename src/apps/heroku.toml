@@ -1,0 +1,7 @@
+[app]
+name = "Heroku"
+
+[app.path]
+linux = ["$HOME/.heroku/plugins", "$HOME/.heroku/accounts"]
+macos = ["$HOME/.heroku/plugins", "$HOME/.heroku/accounts"]
+windows = []

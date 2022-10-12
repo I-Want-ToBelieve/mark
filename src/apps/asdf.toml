@@ -1,0 +1,7 @@
+[app]
+name = "asdf"
+
+[app.path]
+linux = ["$HOME/.tool-versions", "$HOME/.default-npm-packages", "$HOME/.asdfrc", "$HOME/.default-gems"]
+macos = ["$HOME/.tool-versions", "$HOME/.default-npm-packages", "$HOME/.asdfrc", "$HOME/.default-gems"]
+windows = []

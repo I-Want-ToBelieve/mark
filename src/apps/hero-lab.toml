@@ -1,0 +1,7 @@
+[app]
+name = "Hero Lab"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/hero lab/data", "$HOME/library/application support/hero lab/customoutput", "$HOME/library/application support/hero lab/docs"]
+windows = []

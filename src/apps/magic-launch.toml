@@ -1,0 +1,7 @@
+[app]
+name = "Magic Launch"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.metakine.magic-launch.agent.plist"]
+windows = []

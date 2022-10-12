@@ -1,0 +1,7 @@
+[app]
+name = "MySQL"
+
+[app.path]
+linux = ["$HOME/.my.cnf"]
+macos = ["$HOME/.my.cnf"]
+windows = []

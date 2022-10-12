@@ -1,0 +1,7 @@
+[app]
+name = "Nano"
+
+[app.path]
+linux = ["$HOME/.nanorc"]
+macos = ["$HOME/.nanorc"]
+windows = []

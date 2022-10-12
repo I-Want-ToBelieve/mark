@@ -1,0 +1,7 @@
+[app]
+name = "Mailplane"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.mailplaneapp.mailplane3.plist", "$HOME/library/preferences/com.mailplaneapp.mailplane.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Secure Pipes"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/net.edgeservices.sp-config.plist", "$HOME/library/application support/secure pipes", "$HOME/library/preferences/net.edgeservices.connections.plist", "$HOME/library/preferences/net.edgeservices.secure-pipes.plist"]
+windows = []

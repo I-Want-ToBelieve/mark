@@ -1,0 +1,7 @@
+[app]
+name = "PDFjam"
+
+[app.path]
+linux = ["$HOME/.pdfjam.conf"]
+macos = ["$HOME/.pdfjam.conf"]
+windows = []

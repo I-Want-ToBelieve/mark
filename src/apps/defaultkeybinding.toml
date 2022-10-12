@@ -1,0 +1,7 @@
+[app]
+name = "DefaultKeyBinding"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/keybindings/defaultkeybinding.dict"]
+windows = []

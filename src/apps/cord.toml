@@ -1,0 +1,7 @@
+[app]
+name = "CoRD"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/cord"]
+windows = []

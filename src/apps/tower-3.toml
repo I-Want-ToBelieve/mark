@@ -1,0 +1,7 @@
+[app]
+name = "Tower 3"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/com.fournova.tower3", "$HOME/library/preferences/com.fournova.tower3.plist"]
+windows = []

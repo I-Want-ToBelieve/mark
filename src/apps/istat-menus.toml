@@ -1,0 +1,7 @@
+[app]
+name = "iStat Menus"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.bjango.istatmenus.status.plist", "$HOME/library/preferences/com.bjango.istatmenus6.extras.plist", "$HOME/library/preferences/com.bjango.istatmenus5.extras.plist", "$HOME/library/preferences/com.bjango.istatmenus.plist"]
+windows = []

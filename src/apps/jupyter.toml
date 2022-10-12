@@ -1,0 +1,7 @@
+[app]
+name = "Jupyter"
+
+[app.path]
+linux = ["$HOME/.jupyter"]
+macos = ["$HOME/.jupyter"]
+windows = []

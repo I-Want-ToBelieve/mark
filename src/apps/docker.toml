@@ -1,0 +1,7 @@
+[app]
+name = "Docker"
+
+[app.path]
+linux = ["$HOME/.docker/config.json", "$HOME/.dockercfg"]
+macos = ["$HOME/.docker/config.json", "$HOME/.dockercfg"]
+windows = []

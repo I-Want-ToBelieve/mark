@@ -1,0 +1,7 @@
+[app]
+name = "Audacious"
+
+[app.path]
+linux = ["$HOME/.config/audacious/playlists", "$HOME/.config/audacious/plugin-registry", "$HOME/.config/audacious/config", "$HOME/.config/audacious/playlist-state", "$HOME/.config/audacious/scrobbler.log"]
+macos = ["$HOME/.config/audacious/playlists", "$HOME/.config/audacious/plugin-registry", "$HOME/.config/audacious/config", "$HOME/.config/audacious/playlist-state", "$HOME/.config/audacious/scrobbler.log"]
+windows = []

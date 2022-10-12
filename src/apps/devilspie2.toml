@@ -1,0 +1,7 @@
+[app]
+name = "Devilspie2"
+
+[app.path]
+linux = ["$HOME/.config/devilspie2"]
+macos = ["$HOME/.config/devilspie2"]
+windows = []

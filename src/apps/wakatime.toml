@@ -1,0 +1,7 @@
+[app]
+name = "Wakatime"
+
+[app.path]
+linux = ["$HOME/.wakatime.cfg"]
+macos = ["$HOME/.wakatime.cfg"]
+windows = []

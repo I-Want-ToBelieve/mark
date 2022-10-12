@@ -1,0 +1,7 @@
+[app]
+name = "Rocket"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/net.matthewpalmer.rocket.plist", "$HOME/library/application support/rocket"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Clasp"
+
+[app.path]
+linux = ["$HOME/.clasprc.json"]
+macos = ["$HOME/.clasprc.json"]
+windows = []

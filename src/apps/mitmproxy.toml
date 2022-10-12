@@ -1,0 +1,7 @@
+[app]
+name = "mitmproxy"
+
+[app.path]
+linux = ["$HOME/.mitmproxy/config.yaml"]
+macos = ["$HOME/.mitmproxy/config.yaml"]
+windows = []

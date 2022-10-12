@@ -1,0 +1,7 @@
+[app]
+name = "Byobu"
+
+[app.path]
+linux = ["$HOME/.byobu/datetime.tmux", "$HOME/.byobu/keybindings.tmux", "$HOME/.byobu/prompt", "$HOME/.byobu/profile.tmux", "$HOME/.byobu/color", "$HOME/.byoburc.screen", "$HOME/.byobu/.screenrc", "$HOME/.byoburc", "$HOME/.byobu/keybindings", "$HOME/.byobu/profile", "$HOME/.byobu/.tmux.conf", "$HOME/.byobu/windows.tmux", "$HOME/.byobu/backend", "$HOME/.byobu/statusrc", "$HOME/.byobu/windows", "$HOME/.byobu/status", "$HOME/.byobu/color.tmux", "$HOME/.byobu/prompt.tmux", "$HOME/.byoburc.tmux"]
+macos = ["$HOME/.byobu/datetime.tmux", "$HOME/.byobu/keybindings.tmux", "$HOME/.byobu/prompt", "$HOME/.byobu/profile.tmux", "$HOME/.byobu/color", "$HOME/.byoburc.screen", "$HOME/.byobu/.screenrc", "$HOME/.byoburc", "$HOME/.byobu/keybindings", "$HOME/.byobu/profile", "$HOME/.byobu/.tmux.conf", "$HOME/.byobu/windows.tmux", "$HOME/.byobu/backend", "$HOME/.byobu/statusrc", "$HOME/.byobu/windows", "$HOME/.byobu/status", "$HOME/.byobu/color.tmux", "$HOME/.byobu/prompt.tmux", "$HOME/.byoburc.tmux"]
+windows = []

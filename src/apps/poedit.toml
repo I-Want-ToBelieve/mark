@@ -1,0 +1,7 @@
+[app]
+name = "Poedit"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/net.poedit.poedit.plist", "$HOME/library/preferences/net.poedit.poedit.cfg"]
+windows = []

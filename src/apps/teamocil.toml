@@ -1,0 +1,7 @@
+[app]
+name = "Teamocil"
+
+[app.path]
+linux = ["$HOME/.teamocil"]
+macos = ["$HOME/.teamocil"]
+windows = []

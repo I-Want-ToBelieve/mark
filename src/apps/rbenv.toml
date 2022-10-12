@@ -1,0 +1,7 @@
+[app]
+name = "rbenv"
+
+[app.path]
+linux = ["$HOME/.rbenv/default_gems"]
+macos = ["$HOME/.rbenv/default_gems"]
+windows = []

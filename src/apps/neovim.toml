@@ -1,0 +1,7 @@
+[app]
+name = "neovim"
+
+[app.path]
+linux = ["$HOME/.config/nvim/plugin", "$HOME/.config/nvim/colors", "$HOME/.config/nvim/ftdetect", "$HOME/.config/nvim/init.vim", "$HOME/.config/nvim/init.lua", "$HOME/.config/nvim/indent", "$HOME/.config/nvim/compiler", "$HOME/.config/nvim/ftplugin", "$HOME/.config/nvim/lua", "$HOME/.config/nvim/syntax", "$HOME/.nvim", "$HOME/.nvimrc"]
+macos = ["$HOME/.config/nvim/plugin", "$HOME/.config/nvim/colors", "$HOME/.config/nvim/ftdetect", "$HOME/.config/nvim/init.vim", "$HOME/.config/nvim/init.lua", "$HOME/.config/nvim/indent", "$HOME/.config/nvim/compiler", "$HOME/.config/nvim/ftplugin", "$HOME/.config/nvim/lua", "$HOME/.config/nvim/syntax", "$HOME/.nvim", "$HOME/.nvimrc"]
+windows = []

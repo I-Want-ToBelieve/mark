@@ -1,0 +1,7 @@
+[app]
+name = "Android Studio 1.3"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/androidstudio1.3", "$HOME/library/application support/androidstudio1.3"]
+windows = []

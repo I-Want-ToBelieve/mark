@@ -1,0 +1,7 @@
+[app]
+name = "Seil"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.pqrs.seil.plist", "$HOME/library/preferences/org.pqrs.pckeyboardhack.plist"]
+windows = []

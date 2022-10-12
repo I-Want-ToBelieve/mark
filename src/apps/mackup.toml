@@ -1,0 +1,7 @@
+[app]
+name = "Mackup"
+
+[app.path]
+linux = ["$HOME/.mackup", "$HOME/.mackup.cfg"]
+macos = ["$HOME/.mackup", "$HOME/.mackup.cfg"]
+windows = []

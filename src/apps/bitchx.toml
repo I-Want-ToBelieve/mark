@@ -1,0 +1,7 @@
+[app]
+name = "Bitchx"
+
+[app.path]
+linux = ["$HOME/.ircservers", "$HOME/.bitchxrc"]
+macos = ["$HOME/.ircservers", "$HOME/.bitchxrc"]
+windows = []

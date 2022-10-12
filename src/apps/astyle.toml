@@ -1,0 +1,7 @@
+[app]
+name = "Artistic Style"
+
+[app.path]
+linux = ["$HOME/.astylerc"]
+macos = ["$HOME/.astylerc"]
+windows = []

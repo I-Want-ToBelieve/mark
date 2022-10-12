@@ -1,0 +1,7 @@
+[app]
+name = "MonoDevelop"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/monodevelop-unity-5.0/monodevelopproperties.xml", "$HOME/library/monodevelop-unity-5.0/policies/default.mdpolicy.xml", "$HOME/library/monodevelop-unity-5.0/keybindings/custom.mac-kb.xml"]
+windows = []

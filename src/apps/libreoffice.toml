@@ -1,0 +1,7 @@
+[app]
+name = "LibreOffice"
+
+[app.path]
+linux = ["$HOME/.config/libreoffice"]
+macos = ["$HOME/.config/libreoffice"]
+windows = []

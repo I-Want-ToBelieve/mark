@@ -1,0 +1,7 @@
+[app]
+name = "MPV"
+
+[app.path]
+linux = ["$HOME/.config/mpv/input.conf", "$HOME/.config/mpv/mpv.conf", "$HOME/.config/mpv/watch_later", "$HOME/.config/mpv/script-opts", "$HOME/.config/mpv/config", "$HOME/.config/mpv/scripts", "$HOME/.mpv/channels.conf", "$HOME/.mpv/config", "$HOME/.mpv/input.conf"]
+macos = ["$HOME/.config/mpv/input.conf", "$HOME/.config/mpv/mpv.conf", "$HOME/.config/mpv/watch_later", "$HOME/.config/mpv/script-opts", "$HOME/.config/mpv/config", "$HOME/.config/mpv/scripts", "$HOME/.mpv/channels.conf", "$HOME/.mpv/config", "$HOME/.mpv/input.conf"]
+windows = []

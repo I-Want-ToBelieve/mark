@@ -1,0 +1,7 @@
+[app]
+name = "Fork"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/com.danpristupov.fork/custom-commands.json", "$HOME/library/preferences/com.danpristupov.fork.plist"]
+windows = []

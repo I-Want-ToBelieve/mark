@@ -1,0 +1,7 @@
+[app]
+name = "Ghidra"
+
+[app.path]
+linux = ["$HOME/.ghidra"]
+macos = ["$HOME/.ghidra"]
+windows = []

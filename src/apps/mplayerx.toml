@@ -1,0 +1,7 @@
+[app]
+name = "MPlayerX"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.niltsh.mplayerx.plist"]
+windows = []

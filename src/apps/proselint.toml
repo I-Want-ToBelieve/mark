@@ -1,0 +1,7 @@
+[app]
+name = "proselint"
+
+[app.path]
+linux = ["$HOME/.config/proselint/config", "$HOME/.proselintrc"]
+macos = ["$HOME/.config/proselint/config", "$HOME/.proselintrc"]
+windows = []

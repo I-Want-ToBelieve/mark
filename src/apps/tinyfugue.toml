@@ -1,0 +1,7 @@
+[app]
+name = "TinyFugue"
+
+[app.path]
+linux = ["$HOME/.tfrc"]
+macos = ["$HOME/.tfrc"]
+windows = []

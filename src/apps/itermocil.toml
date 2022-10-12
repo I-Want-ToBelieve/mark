@@ -1,0 +1,7 @@
+[app]
+name = "iTermocil"
+
+[app.path]
+linux = ["$HOME/.itermocil"]
+macos = ["$HOME/.itermocil"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "deepin-dde-dock"
+
+[app.path]
+linux = ["$HOME/.config/deepin/dde-dock.conf"]
+macos = ["$HOME/.config/deepin/dde-dock.conf"]
+windows = []

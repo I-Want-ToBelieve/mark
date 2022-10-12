@@ -1,0 +1,7 @@
+[app]
+name = "PostgreSQL"
+
+[app.path]
+linux = ["$HOME/.psqlrc", "$HOME/.pgpass"]
+macos = ["$HOME/.psqlrc", "$HOME/.pgpass"]
+windows = []

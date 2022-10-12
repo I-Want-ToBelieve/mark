@@ -1,0 +1,7 @@
+[app]
+name = "MacVim"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.vim.macvim.lssharedfilelist.plist", "$HOME/library/preferences/org.vim.macvim.plist"]
+windows = []

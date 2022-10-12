@@ -1,0 +1,7 @@
+[app]
+name = "Git"
+
+[app.path]
+linux = ["$HOME/.config/git/config", "$HOME/.config/git/ignore", "$HOME/.config/git/attributes", "$HOME/.gitconfig"]
+macos = ["$HOME/.config/git/config", "$HOME/.config/git/ignore", "$HOME/.config/git/attributes", "$HOME/.gitconfig"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Deal Alert"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.littlefin.dealalert.plist"]
+windows = []

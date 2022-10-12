@@ -1,0 +1,7 @@
+[app]
+name = "Irssi"
+
+[app.path]
+linux = ["$HOME/.irssi"]
+macos = ["$HOME/.irssi"]
+windows = []

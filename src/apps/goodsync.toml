@@ -1,0 +1,7 @@
+[app]
+name = "GoodSync"
+
+[app.path]
+linux = ["$HOME/.goodsync"]
+macos = ["$HOME/.goodsync"]
+windows = []

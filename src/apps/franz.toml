@@ -1,0 +1,7 @@
+[app]
+name = "Franz"
+
+[app.path]
+linux = ["$HOME/.config/franz/settings"]
+macos = ["$HOME/.config/franz/settings", "$HOME/library/application support/franz/settings"]
+windows = []

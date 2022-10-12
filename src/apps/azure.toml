@@ -1,0 +1,7 @@
+[app]
+name = "Azure CLI"
+
+[app.path]
+linux = ["$HOME/.azure"]
+macos = ["$HOME/.azure"]
+windows = []

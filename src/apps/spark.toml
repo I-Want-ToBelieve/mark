@@ -1,0 +1,7 @@
+[app]
+name = "Spark"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/spark"]
+windows = []

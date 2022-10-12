@@ -1,0 +1,7 @@
+[app]
+name = "SelfControl"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.eyebeam.selfcontrol.plist"]
+windows = []

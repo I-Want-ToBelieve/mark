@@ -1,0 +1,7 @@
+[app]
+name = "XEmacs"
+
+[app.path]
+linux = ["$HOME/.xemacs"]
+macos = ["$HOME/.xemacs"]
+windows = []

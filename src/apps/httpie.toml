@@ -1,0 +1,7 @@
+[app]
+name = "HTTPie"
+
+[app.path]
+linux = ["$HOME/.httpie/config.json"]
+macos = ["$HOME/.httpie/config.json"]
+windows = []

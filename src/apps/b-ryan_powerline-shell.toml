@@ -1,0 +1,7 @@
+[app]
+name = "Powerline Shell Prompt"
+
+[app.path]
+linux = ["$HOME/.config/powerline-shell/config.json"]
+macos = ["$HOME/.config/powerline-shell/config.json"]
+windows = []

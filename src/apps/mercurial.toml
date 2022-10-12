@@ -1,0 +1,7 @@
+[app]
+name = "Mercurial"
+
+[app.path]
+linux = ["$HOME/.hgrc", "$HOME/.hgignore_global"]
+macos = ["$HOME/.hgrc", "$HOME/.hgignore_global"]
+windows = []

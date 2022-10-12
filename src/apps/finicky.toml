@@ -1,0 +1,7 @@
+[app]
+name = "finicky"
+
+[app.path]
+linux = ["$HOME/.finicky.js"]
+macos = ["$HOME/.finicky.js"]
+windows = []

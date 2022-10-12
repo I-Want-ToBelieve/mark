@@ -1,0 +1,7 @@
+[app]
+name = "Ctags"
+
+[app.path]
+linux = ["$HOME/.ctags", "$HOME/.ctags.d"]
+macos = ["$HOME/.ctags", "$HOME/.ctags.d"]
+windows = []

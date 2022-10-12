@@ -1,0 +1,7 @@
+[app]
+name = "Bundler"
+
+[app.path]
+linux = ["$HOME/.bundle/config"]
+macos = ["$HOME/.bundle/config"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Yummy FTP"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.yummysoftware.yummy-ftp.plist", "$HOME/library/application support/yummy ftp/defaultbookmark.bkmk", "$HOME/library/application support/yummy ftp/bookmarks"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Bash"
+
+[app.path]
+linux = ["$HOME/.aliases", "$HOME/.bash_logout", "$HOME/.bashrc", "$HOME/.profile", "$HOME/.bash_aliases", "$HOME/.bash_profile", "$HOME/.inputrc", "$HOME/.bash_login"]
+macos = ["$HOME/.aliases", "$HOME/.bash_logout", "$HOME/.bashrc", "$HOME/.profile", "$HOME/.bash_aliases", "$HOME/.bash_profile", "$HOME/.inputrc", "$HOME/.bash_login"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Htop"
+
+[app.path]
+linux = ["$HOME/.config/htop/htoprc", "$HOME/.htoprc"]
+macos = ["$HOME/.config/htop/htoprc", "$HOME/.htoprc"]
+windows = []

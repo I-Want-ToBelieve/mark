@@ -1,0 +1,7 @@
+[app]
+name = "Vim"
+
+[app.path]
+linux = ["$HOME/.vim/plugin/settings", "$HOME/.vim/ftdetect", "$HOME/.vim/autoload", "$HOME/.vim/colors", "$HOME/.vim/ftplugin", "$HOME/.vim/syntax", "$HOME/.gvimrc.after", "$HOME/.vim/vimrc", "$HOME/.vim/pack", "$HOME/.vimrc", "$HOME/.vim/doc", "$HOME/.vimrc.before", "$HOME/.vimrc.after", "$HOME/.gvimrc.before", "$HOME/.vim/indent", "$HOME/.vim/spell", "$HOME/.gvimrc", "$HOME/.vim/after"]
+macos = ["$HOME/.vim/plugin/settings", "$HOME/.vim/ftdetect", "$HOME/.vim/autoload", "$HOME/.vim/colors", "$HOME/.vim/ftplugin", "$HOME/.vim/syntax", "$HOME/.gvimrc.after", "$HOME/.vim/vimrc", "$HOME/.vim/pack", "$HOME/.vimrc", "$HOME/.vim/doc", "$HOME/.vimrc.before", "$HOME/.vimrc.after", "$HOME/.gvimrc.before", "$HOME/.vim/indent", "$HOME/.vim/spell", "$HOME/.gvimrc", "$HOME/.vim/after"]
+windows = []

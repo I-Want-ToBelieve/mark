@@ -1,0 +1,7 @@
+[app]
+name = "Tig"
+
+[app.path]
+linux = ["$HOME/.config/tig/config", "$HOME/.tigrc"]
+macos = ["$HOME/.config/tig/config", "$HOME/.tigrc"]
+windows = []

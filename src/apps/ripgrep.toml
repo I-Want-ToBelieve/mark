@@ -1,0 +1,7 @@
+[app]
+name = "ripgrep"
+
+[app.path]
+linux = ["$HOME/.ripgreprc"]
+macos = ["$HOME/.ripgreprc"]
+windows = []

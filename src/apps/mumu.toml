@@ -1,0 +1,7 @@
+[app]
+name = "Mumu"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/mumu"]
+windows = []

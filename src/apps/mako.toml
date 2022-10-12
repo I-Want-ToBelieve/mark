@@ -1,0 +1,7 @@
+[app]
+name = "mako"
+
+[app.path]
+linux = ["$HOME/.config/mako/config"]
+macos = ["$HOME/.config/mako/config"]
+windows = []

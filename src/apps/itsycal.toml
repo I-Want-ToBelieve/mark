@@ -1,0 +1,7 @@
+[app]
+name = "Itsycal"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.mowglii.itsycalapp.plist"]
+windows = []

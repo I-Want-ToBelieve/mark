@@ -1,0 +1,7 @@
+[app]
+name = "Royal TSX"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/royal tsx/userpreferences.config", "$HOME/library/application support/royal tsx/license.xml", "$HOME/library/preferences/com.lemonmojo.royaltsx.app.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Amethyst"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.amethyst.amethyst.plist"]
+windows = []

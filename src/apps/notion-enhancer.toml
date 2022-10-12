@@ -1,0 +1,7 @@
+[app]
+name = "notion-enhancer"
+
+[app.path]
+linux = ["$HOME/.notion-enhancer"]
+macos = ["$HOME/.notion-enhancer"]
+windows = []

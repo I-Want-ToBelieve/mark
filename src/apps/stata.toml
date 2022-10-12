@@ -1,0 +1,7 @@
+[app]
+name = "Stata"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/stata", "$HOME/library/preferences/com.stata.stata12.plist", "$HOME/library/preferences/stata 13 preferences", "$HOME/library/preferences/com.stata.stata13.plist"]
+windows = []

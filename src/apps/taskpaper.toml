@@ -1,0 +1,7 @@
+[app]
+name = "Task Paper"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/taskpaper", "$HOME/library/preferences/com.hogbaysoftware.taskpaper.mac.plist"]
+windows = []

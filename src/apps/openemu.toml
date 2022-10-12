@@ -1,0 +1,7 @@
+[app]
+name = "OpenEmu"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.openemu.openemu.plist", "$HOME/library/application support/openemu"]
+windows = []

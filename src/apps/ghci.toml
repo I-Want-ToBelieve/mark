@@ -1,0 +1,7 @@
+[app]
+name = "ghci"
+
+[app.path]
+linux = ["$HOME/.ghci"]
+macos = ["$HOME/.ghci"]
+windows = []

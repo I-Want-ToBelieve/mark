@@ -1,0 +1,7 @@
+[app]
+name = "Exercism"
+
+[app.path]
+linux = ["$HOME/.config/exercism", "$HOME/.exercism"]
+macos = ["$HOME/.config/exercism", "$HOME/.exercism"]
+windows = []

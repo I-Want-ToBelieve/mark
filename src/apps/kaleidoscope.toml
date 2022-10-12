@@ -1,0 +1,7 @@
+[app]
+name = "Kaleidoscope"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/kaleidoscope", "$HOME/library/preferences/com.blackpixel.kaleidoscope.plist"]
+windows = []

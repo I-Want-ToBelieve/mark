@@ -1,0 +1,7 @@
+[app]
+name = "AWS CLI"
+
+[app.path]
+linux = ["$HOME/.aws"]
+macos = ["$HOME/.aws"]
+windows = []

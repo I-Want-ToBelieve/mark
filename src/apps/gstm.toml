@@ -1,0 +1,7 @@
+[app]
+name = "Gnome SSH Tunnel Manager"
+
+[app.path]
+linux = ["$HOME/.gstm"]
+macos = ["$HOME/.gstm"]
+windows = []

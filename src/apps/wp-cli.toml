@@ -1,0 +1,7 @@
+[app]
+name = "WP-CLI"
+
+[app.path]
+linux = ["$HOME/.wp-cli"]
+macos = ["$HOME/.wp-cli"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "IdeaVim"
+
+[app.path]
+linux = ["$HOME/.ideavimrc"]
+macos = ["$HOME/.ideavimrc"]
+windows = []

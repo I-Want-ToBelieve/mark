@@ -1,0 +1,7 @@
+[app]
+name = "asciinema"
+
+[app.path]
+linux = ["$HOME/.config/asciinema"]
+macos = ["$HOME/.config/asciinema"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Hands Off!"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.metakine.handsoff.plist"]
+windows = []

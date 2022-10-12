@@ -1,0 +1,7 @@
+[app]
+name = "Navicat"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.prect.navicatpremium.plist", "$HOME/library/application support/premiumsoft cybertech", "$HOME/library/preferences/com.prect.navicatpremiumessentials.plist", "$HOME/library/preferences/com.prect.navicat.plist", "$HOME/library/application support/navicat for mysql", "$HOME/library/application support/navicat premium"]
+windows = []

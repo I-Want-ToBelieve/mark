@@ -1,0 +1,7 @@
+[app]
+name = "Zsh"
+
+[app.path]
+linux = ["$HOME/.zshenv", "$HOME/.zprofile", "$HOME/.zlogout", "$HOME/.zlogin", "$HOME/.zshrc"]
+macos = ["$HOME/.zshenv", "$HOME/.zprofile", "$HOME/.zlogout", "$HOME/.zlogin", "$HOME/.zshrc"]
+windows = []

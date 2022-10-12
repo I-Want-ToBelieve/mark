@@ -1,0 +1,7 @@
+[app]
+name = "ncmpcpp"
+
+[app.path]
+linux = ["$HOME/.ncmpcpp"]
+macos = ["$HOME/.ncmpcpp"]
+windows = []

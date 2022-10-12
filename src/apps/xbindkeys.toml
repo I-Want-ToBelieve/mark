@@ -1,0 +1,7 @@
+[app]
+name = "xbindkeys"
+
+[app.path]
+linux = ["$HOME/.xbindkeysrc"]
+macos = ["$HOME/.xbindkeysrc"]
+windows = []

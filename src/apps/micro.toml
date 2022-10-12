@@ -1,0 +1,7 @@
+[app]
+name = "Micro"
+
+[app.path]
+linux = ["$HOME/.config/micro/syntax", "$HOME/.config/micro/colorschemes", "$HOME/.config/micro/settings.json", "$HOME/.config/micro/bindings.json"]
+macos = ["$HOME/.config/micro/syntax", "$HOME/.config/micro/colorschemes", "$HOME/.config/micro/settings.json", "$HOME/.config/micro/bindings.json"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "ColorSync"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/colorsync/profiles"]
+windows = []

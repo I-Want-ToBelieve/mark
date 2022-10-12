@@ -1,0 +1,7 @@
+[app]
+name = "i3"
+
+[app.path]
+linux = ["$HOME/.config/i3/config", "$HOME/.i3/config", "$HOME/.i3status.conf"]
+macos = ["$HOME/.config/i3/config", "$HOME/.i3/config", "$HOME/.i3status.conf"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Cartographica"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/cartographica", "$HOME/library/preferences/com.cluetrust.cartographica.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "SizeUp"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/sizeup/sizeup.sizeuplicense", "$HOME/library/preferences/com.irradiatedsoftware.sizeup.plist"]
+windows = []

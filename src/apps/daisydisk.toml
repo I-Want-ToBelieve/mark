@@ -1,0 +1,7 @@
+[app]
+name = "DaisyDisk"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.daisydiskapp.daisydiskstandalone.plist", "$HOME/library/application support/daisydisk/license.daisydisk"]
+windows = []

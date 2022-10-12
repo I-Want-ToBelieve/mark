@@ -1,0 +1,7 @@
+[app]
+name = "Perl"
+
+[app.path]
+linux = ["$HOME/.perltidyrc", "$HOME/.perlcriticrc", "$HOME/.proverc"]
+macos = ["$HOME/.perltidyrc", "$HOME/.perlcriticrc", "$HOME/.proverc"]
+windows = []

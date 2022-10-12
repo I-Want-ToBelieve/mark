@@ -1,0 +1,7 @@
+[app]
+name = "yarn"
+
+[app.path]
+linux = ["$HOME/.yarnrc"]
+macos = ["$HOME/.yarnrc"]
+windows = []

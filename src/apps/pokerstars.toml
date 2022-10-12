@@ -1,0 +1,7 @@
+[app]
+name = "PokerStars"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/pokerstars", "$HOME/library/preferences/com.pokerstars.user.ini", "$HOME/library/application support/pokerstarseu", "$HOME/library/preferences/com.pokerstars.eu.user.ini", "$HOME/library/preferences/com.pokerstars.pokerstars.plist", "$HOME/library/preferences/com.pokerstars.pokerstarseu.plist"]
+windows = []

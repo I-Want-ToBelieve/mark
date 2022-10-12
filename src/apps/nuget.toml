@@ -1,0 +1,7 @@
+[app]
+name = "nuget"
+
+[app.path]
+linux = ["$HOME/.nuget/nuget/nuget.config"]
+macos = ["$HOME/.nuget/nuget/nuget.config"]
+windows = []

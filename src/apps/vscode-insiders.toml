@@ -1,0 +1,7 @@
+[app]
+name = "Visual Studio Code Insiders"
+
+[app.path]
+linux = ["$HOME/.config/code - insiders/user/settings.json", "$HOME/.config/code - insiders/user/snippets", "$HOME/.config/code - insiders/user/keybindings.json"]
+macos = ["$HOME/.config/code - insiders/user/settings.json", "$HOME/.config/code - insiders/user/snippets", "$HOME/.config/code - insiders/user/keybindings.json", "$HOME/library/application support/code - insiders/user/keybindings.json", "$HOME/library/application support/code - insiders/user/snippets", "$HOME/library/application support/code - insiders/user/settings.json"]
+windows = []

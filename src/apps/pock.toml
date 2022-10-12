@@ -1,0 +1,7 @@
+[app]
+name = "Pock"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.pigigaldi.pock.plist"]
+windows = []

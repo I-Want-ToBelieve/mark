@@ -1,0 +1,7 @@
+[app]
+name = "JS Beautifier"
+
+[app.path]
+linux = ["$HOME/.jsbeautifyrc"]
+macos = ["$HOME/.jsbeautifyrc"]
+windows = []

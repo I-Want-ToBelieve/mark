@@ -1,0 +1,7 @@
+[app]
+name = "LunarVim"
+
+[app.path]
+linux = ["$HOME/.config/lvim"]
+macos = ["$HOME/.config/lvim"]
+windows = []

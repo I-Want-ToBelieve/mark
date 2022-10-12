@@ -1,0 +1,7 @@
+[app]
+name = "Janus"
+
+[app.path]
+linux = ["$HOME/.janus", "$HOME/.vimrc.before", "$HOME/.vimrc.after"]
+macos = ["$HOME/.janus", "$HOME/.vimrc.before", "$HOME/.vimrc.after"]
+windows = []

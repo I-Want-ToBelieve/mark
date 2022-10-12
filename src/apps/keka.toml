@@ -1,0 +1,7 @@
+[app]
+name = "Keka"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.aone.keka.plist"]
+windows = []

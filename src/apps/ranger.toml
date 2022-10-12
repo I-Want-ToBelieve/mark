@@ -1,0 +1,7 @@
+[app]
+name = "Ranger"
+
+[app.path]
+linux = ["$HOME/.config/ranger/rifle.conf", "$HOME/.config/ranger/scope.sh", "$HOME/.config/ranger/commands.py", "$HOME/.config/ranger/plugins", "$HOME/.config/ranger/rc.conf"]
+macos = ["$HOME/.config/ranger/rifle.conf", "$HOME/.config/ranger/scope.sh", "$HOME/.config/ranger/commands.py", "$HOME/.config/ranger/plugins", "$HOME/.config/ranger/rc.conf"]
+windows = []

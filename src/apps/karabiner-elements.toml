@@ -1,0 +1,7 @@
+[app]
+name = "Karabiner Elements"
+
+[app.path]
+linux = ["$HOME/.config/karabiner"]
+macos = ["$HOME/.config/karabiner"]
+windows = []

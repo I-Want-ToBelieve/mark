@@ -1,0 +1,7 @@
+[app]
+name = "Mou"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.mouapp.mou.plist", "$HOME/library/application support/mou", "$HOME/library/preferences/com.mouapp.mou.lssharedfilelist.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Lollypop"
+
+[app.path]
+linux = ["$HOME/.local/share/lollypop"]
+macos = ["$HOME/.local/share/lollypop"]
+windows = []

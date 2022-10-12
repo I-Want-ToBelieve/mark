@@ -1,0 +1,7 @@
+[app]
+name = "Adobe Photoshop"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/adobe photoshop cc 2015 settings", "$HOME/library/application support/adobe/adobe photoshop cc 2015/presets", "$HOME/library/preferences/adobe photoshop cc 2019 settings", "$HOME/library/preferences/adobe photoshop cc 2014 settings", "$HOME/library/application support/adobe/adobe photoshop cc 2019/presets", "$HOME/library/preferences/adobe photoshop cc 2013 settings", "$HOME/library/application support/adobe/adobe photoshop cc 2013/presets", "$HOME/library/application support/adobe/adobe photoshop cc 2015.5/presets", "$HOME/library/preferences/adobe photoshop cc 2015.5 settings", "$HOME/library/application support/adobe/adobe photoshop cc 2014/presets", "$HOME/library/preferences/com.adobe.photoshop.plist"]
+windows = []

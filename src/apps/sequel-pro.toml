@@ -1,0 +1,7 @@
+[app]
+name = "Sequel Pro"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/sequel pro/data", "$HOME/library/application support/sequel pro/bundles", "$HOME/library/preferences/com.sequelpro.sequelpro.plist", "$HOME/library/application support/sequel pro/themes"]
+windows = []

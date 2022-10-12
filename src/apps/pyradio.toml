@@ -1,0 +1,7 @@
+[app]
+name = "PyRadio"
+
+[app.path]
+linux = ["$HOME/.pyradio/stations.csv"]
+macos = ["$HOME/.pyradio/stations.csv"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Surge"
+
+[app.path]
+linux = ["$HOME/.surge.conf"]
+macos = ["$HOME/.surge.conf"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "pnpm"
+
+[app.path]
+linux = ["$HOME/.pnpm-store/2/store.json", "$HOME/.pnpm/global_pnpmfile.js"]
+macos = ["$HOME/.pnpm-store/2/store.json", "$HOME/.pnpm/global_pnpmfile.js"]
+windows = []

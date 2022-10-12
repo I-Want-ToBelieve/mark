@@ -1,0 +1,7 @@
+[app]
+name = "MuteSpotifyAds"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/de.simonmeusel.mutespotifyads.plist"]
+windows = []

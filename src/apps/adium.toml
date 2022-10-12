@@ -1,0 +1,7 @@
+[app]
+name = "Adium"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/adium 2.0", "$HOME/library/preferences/com.adiumx.adiumx.plist"]
+windows = []

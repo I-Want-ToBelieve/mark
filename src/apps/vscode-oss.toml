@@ -1,0 +1,7 @@
+[app]
+name = "Visual Studio Code Open Source Edition"
+
+[app.path]
+linux = ["$HOME/.config/code - oss/user/settings.json", "$HOME/.config/code - oss/user/keybindings.json", "$HOME/.config/code - oss/user/snippets"]
+macos = ["$HOME/.config/code - oss/user/settings.json", "$HOME/.config/code - oss/user/keybindings.json", "$HOME/.config/code - oss/user/snippets", "$HOME/library/application support/code - oss/user/snippets", "$HOME/library/application support/code - oss/user/keybindings.json", "$HOME/library/application support/code - oss/user/settings.json"]
+windows = []

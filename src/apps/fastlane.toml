@@ -1,0 +1,7 @@
+[app]
+name = "fastlane"
+
+[app.path]
+linux = ["$HOME/.fastlane/completions"]
+macos = ["$HOME/.fastlane/completions"]
+windows = []

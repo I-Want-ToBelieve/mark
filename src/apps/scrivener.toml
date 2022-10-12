@@ -1,0 +1,7 @@
+[app]
+name = "Scrivener"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/scrivener", "$HOME/library/preferences/com.literatureandlatte.scrivener2.plist"]
+windows = []

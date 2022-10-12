@@ -1,0 +1,7 @@
+[app]
+name = "CleanShot"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.getcleanshot.app-setapp.plist", "$HOME/library/preferences/pl.maketheweb.cleanshotx.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "openbox"
+
+[app.path]
+linux = ["$HOME/.config/openbox/environment", "$HOME/.config/openbox/autostart", "$HOME/.config/openbox/menu.xml", "$HOME/.config/openbox/rc.xml"]
+macos = ["$HOME/.config/openbox/environment", "$HOME/.config/openbox/autostart", "$HOME/.config/openbox/menu.xml", "$HOME/.config/openbox/rc.xml"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Livestreamer"
+
+[app.path]
+linux = ["$HOME/.config/livestreamer/config", "$HOME/.config/livestreamer/plugins", "$HOME/.livestreamerrc"]
+macos = ["$HOME/.config/livestreamer/config", "$HOME/.config/livestreamer/plugins", "$HOME/.livestreamerrc"]
+windows = []

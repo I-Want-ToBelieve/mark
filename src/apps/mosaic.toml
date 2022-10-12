@@ -1,0 +1,7 @@
+[app]
+name = "Mosaic"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/com.lightpillar.mosaic/mosaiccoredata.storedata"]
+windows = []

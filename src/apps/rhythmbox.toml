@@ -1,0 +1,7 @@
+[app]
+name = "Rhythmbox"
+
+[app.path]
+linux = ["$HOME/.gconf/apps/rhythmbox"]
+macos = ["$HOME/.gconf/apps/rhythmbox"]
+windows = []

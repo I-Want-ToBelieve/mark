@@ -1,0 +1,7 @@
+[app]
+name = "Verdaccio"
+
+[app.path]
+linux = ["$HOME/.config/verdaccio/config.yaml"]
+macos = ["$HOME/.config/verdaccio/config.yaml"]
+windows = []

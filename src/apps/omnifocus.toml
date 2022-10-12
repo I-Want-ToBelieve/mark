@@ -1,0 +1,7 @@
+[app]
+name = "OmniFocus"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/omnifocus/themes", "$HOME/library/preferences/com.omnigroup.omnifocus.plist", "$HOME/library/application support/omnifocus/plug-ins"]
+windows = []

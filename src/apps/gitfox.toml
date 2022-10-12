@@ -1,0 +1,7 @@
+[app]
+name = "GitFox"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.bytieful.gitfox-retail.plist", "$HOME/library/preferences/com.bytieful.gitfox-setapp.plist", "$HOME/library/preferences/com.bytieful.gitfox.plist"]
+windows = []

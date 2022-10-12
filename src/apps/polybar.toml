@@ -1,0 +1,7 @@
+[app]
+name = "polybar"
+
+[app.path]
+linux = ["$HOME/.config/polybar/config", "$HOME/.config/polybar/scripts", "$HOME/.config/polybar/launch.sh", "$HOME/.polybar/launch.sh", "$HOME/.polybar/config"]
+macos = ["$HOME/.config/polybar/config", "$HOME/.config/polybar/scripts", "$HOME/.config/polybar/launch.sh", "$HOME/.polybar/launch.sh", "$HOME/.polybar/config"]
+windows = []

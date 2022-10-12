@@ -1,0 +1,7 @@
+[app]
+name = "MacDive"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/macdive", "$HOME/library/preferences/com.mintsoftware.macdive2.plist"]
+windows = []

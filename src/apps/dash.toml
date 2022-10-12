@@ -1,0 +1,7 @@
+[app]
+name = "Dash"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.kapeli.dashdoc.plist", "$HOME/library/preferences/com.kapeli.dash.plist", "$HOME/library/application support/dash/library.dash", "$HOME/library/application support/dash/license/license.dash-license"]
+windows = []

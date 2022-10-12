@@ -1,0 +1,7 @@
+[app]
+name = "liftoff"
+
+[app.path]
+linux = ["$HOME/.liftoffrc"]
+macos = ["$HOME/.liftoffrc"]
+windows = []

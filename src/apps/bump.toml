@@ -1,0 +1,7 @@
+[app]
+name = "Bump"
+
+[app.path]
+linux = ["$HOME/.bump.json"]
+macos = ["$HOME/.bump.json"]
+windows = []

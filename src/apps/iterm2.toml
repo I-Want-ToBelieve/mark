@@ -1,0 +1,7 @@
+[app]
+name = "iTerm2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/iterm2/dynamicprofiles", "$HOME/library/preferences/com.googlecode.iterm2.plist"]
+windows = []

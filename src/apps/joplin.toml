@@ -1,0 +1,7 @@
+[app]
+name = "Joplin"
+
+[app.path]
+linux = ["$HOME/.config/joplin-desktop/userchrome.css", "$HOME/.config/joplin-desktop/userstyle.css"]
+macos = ["$HOME/.config/joplin-desktop/userchrome.css", "$HOME/.config/joplin-desktop/userstyle.css"]
+windows = []

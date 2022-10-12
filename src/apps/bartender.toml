@@ -1,0 +1,7 @@
+[app]
+name = "Bartender"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.surteesstudios.bartender.plist", "$HOME/library/preferences/com.surteesstudios.bartender-setapp.plist", "$HOME/library/application support/bartender/bartender.bartenderpreferences"]
+windows = []

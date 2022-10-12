@@ -1,0 +1,7 @@
+[app]
+name = "FlexGet"
+
+[app.path]
+linux = ["$HOME/.config/flexget/config.yml", "$HOME/.flexget/config.yml"]
+macos = ["$HOME/.config/flexget/config.yml", "$HOME/.flexget/config.yml"]
+windows = []

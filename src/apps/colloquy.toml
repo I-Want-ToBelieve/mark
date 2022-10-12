@@ -1,0 +1,7 @@
+[app]
+name = "Colloquy"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/info.colloquy.plist", "$HOME/library/application support/colloquy"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Redshift"
+
+[app.path]
+linux = ["$HOME/.config/redshift.conf"]
+macos = ["$HOME/.config/redshift.conf"]
+windows = []

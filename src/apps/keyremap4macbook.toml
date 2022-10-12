@@ -1,0 +1,7 @@
+[app]
+name = "KeyRemap4MacBook"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.pqrs.keyremap4macbook.plist", "$HOME/library/preferences/org.pqrs.keyremap4macbook.multitouchextension.plist", "$HOME/library/application support/keyremap4macbook/private.xml"]
+windows = []

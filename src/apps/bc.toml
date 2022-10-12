@@ -1,0 +1,7 @@
+[app]
+name = "bc"
+
+[app.path]
+linux = ["$HOME/.bcrc"]
+macos = ["$HOME/.bcrc"]
+windows = []

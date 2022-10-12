@@ -1,0 +1,7 @@
+[app]
+name = "ColorSlurp"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.ideapunch.colorslurp.plist", "$HOME/library/containers/com.ideapunch.colorslurp/data/library/application support/default.realm"]
+windows = []

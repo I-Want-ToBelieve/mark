@@ -1,0 +1,7 @@
+[app]
+name = "Sizzy"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/sizzy/config.json", "$HOME/library/application support/sizzy/window-state.json"]
+windows = []

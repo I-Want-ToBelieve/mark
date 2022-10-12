@@ -1,0 +1,7 @@
+[app]
+name = "ToothFairy"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application scripts/com.robinlu.mac.tooth-fairy"]
+windows = []

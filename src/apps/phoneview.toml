@@ -1,0 +1,7 @@
+[app]
+name = "PhoneView"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.ecamm.phoneview.plist"]
+windows = []

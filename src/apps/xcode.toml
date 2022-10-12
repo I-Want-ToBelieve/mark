@@ -1,0 +1,7 @@
+[app]
+name = "Xcode"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/developer/xcode/userdata/codesnippets", "$HOME/library/developer/xcode/userdata/searchscopes.xcsclist", "$HOME/library/developer/xcode/userdata/fontandcolorthemes", "$HOME/library/application support/developer/shared/xcode/plug-ins", "$HOME/library/developer/xcode/userdata/debugger", "$HOME/library/developer/xcode/userdata/xcdebugger", "$HOME/library/preferences/com.apple.dt.xcode.plist", "$HOME/library/developer/xcode/userdata/keybindings", "$HOME/library/developer/xcode/templates"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Netlify"
+
+[app.path]
+linux = ["$HOME/.netlify/config.json"]
+macos = ["$HOME/.netlify/config.json"]
+windows = []

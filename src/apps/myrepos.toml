@@ -1,0 +1,7 @@
+[app]
+name = "myrepos"
+
+[app.path]
+linux = ["$HOME/.mrconfig"]
+macos = ["$HOME/.mrconfig"]
+windows = []

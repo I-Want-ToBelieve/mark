@@ -1,0 +1,7 @@
+[app]
+name = "Versions"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/versions/license", "$HOME/library/preferences/com.blackpixel.versions.plist"]
+windows = []

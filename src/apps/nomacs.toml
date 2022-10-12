@@ -1,0 +1,7 @@
+[app]
+name = "Nomacs"
+
+[app.path]
+linux = ["$HOME/.config/nomacs"]
+macos = ["$HOME/.config/nomacs"]
+windows = []

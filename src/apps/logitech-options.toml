@@ -1,0 +1,7 @@
+[app]
+name = "Logitech Options"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.logitech.manager.setting.ffff.plist"]
+windows = []

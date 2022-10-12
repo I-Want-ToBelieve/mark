@@ -1,0 +1,7 @@
+[app]
+name = "TotalSpaces2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.binaryage.totalspaces2.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Autokey"
+
+[app.path]
+linux = ["$HOME/.config/autokey"]
+macos = ["$HOME/.config/autokey"]
+windows = []

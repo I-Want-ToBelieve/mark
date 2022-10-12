@@ -1,0 +1,7 @@
+[app]
+name = "GrandTotal 3"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.mediaatelier.grandtotal3.plist", "$HOME/library/application support/grandtotal/addressbook.plist"]
+windows = []

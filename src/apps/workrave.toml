@@ -1,0 +1,7 @@
+[app]
+name = "Workrave"
+
+[app.path]
+linux = ["$HOME/.workrave/id", "$HOME/.workrave/historystats"]
+macos = ["$HOME/.workrave/id", "$HOME/.workrave/historystats"]
+windows = []

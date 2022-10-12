@@ -1,0 +1,7 @@
+[app]
+name = "SpaceLauncher"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/name.guoc.spacelauncher.plist"]
+windows = []

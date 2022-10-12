@@ -1,0 +1,7 @@
+[app]
+name = "termite"
+
+[app.path]
+linux = ["$HOME/termite/config"]
+macos = ["$HOME/termite/config"]
+windows = []

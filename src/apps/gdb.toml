@@ -1,0 +1,7 @@
+[app]
+name = "gdb"
+
+[app.path]
+linux = ["$HOME/.gdbinit"]
+macos = ["$HOME/.gdbinit"]
+windows = []

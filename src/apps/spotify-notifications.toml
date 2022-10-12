@@ -1,0 +1,7 @@
+[app]
+name = "Spotify-Notifications"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/io.citruspi.spotify-notifications.plist"]
+windows = []

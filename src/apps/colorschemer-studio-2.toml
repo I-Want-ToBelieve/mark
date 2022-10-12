@@ -1,0 +1,7 @@
+[app]
+name = "ColorSchemer Studio 2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/colorschemer", "$HOME/library/preferences/com.colorschemer.studio2.plist"]
+windows = []

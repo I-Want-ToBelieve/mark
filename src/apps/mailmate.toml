@@ -1,0 +1,7 @@
+[app]
+name = "Mailmate"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/mailmate/sources.plist", "$HOME/library/application support/mailmate/resources/keybindings", "$HOME/library/application support/mailmate/com.freron.mailmate.pid", "$HOME/library/application support/mailmate/signatures.plist", "$HOME/library/application support/mailmate/identities.plist", "$HOME/library/application support/mailmate/mailboxes.plist", "$HOME/library/application support/mailmate/submission.plist", "$HOME/library/preferences/com.freron.mailmate.plist", "$HOME/library/application support/mailmate/tags.plist"]
+windows = []

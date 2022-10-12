@@ -1,0 +1,7 @@
+[app]
+name = "Slogger"
+
+[app.path]
+linux = ["$HOME/slogger"]
+macos = ["$HOME/slogger"]
+windows = []

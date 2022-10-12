@@ -1,0 +1,7 @@
+[app]
+name = "LaTeXiT"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/fr.chachatelier.pierre.latexit.plist"]
+windows = []

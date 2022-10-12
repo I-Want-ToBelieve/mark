@@ -1,0 +1,7 @@
+[app]
+name = "Goldendict"
+
+[app.path]
+linux = ["$HOME/.goldendict/config"]
+macos = ["$HOME/.goldendict/config"]
+windows = []

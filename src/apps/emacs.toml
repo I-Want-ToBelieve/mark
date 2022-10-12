@@ -1,0 +1,7 @@
+[app]
+name = "Emacs"
+
+[app.path]
+linux = ["$HOME/.emacs.d", "$HOME/.emacs"]
+macos = ["$HOME/.emacs.d", "$HOME/.emacs"]
+windows = []

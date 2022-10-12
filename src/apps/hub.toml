@@ -1,0 +1,7 @@
+[app]
+name = "hub"
+
+[app.path]
+linux = ["$HOME/.config/hub"]
+macos = ["$HOME/.config/hub"]
+windows = []

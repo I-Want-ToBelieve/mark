@@ -1,0 +1,7 @@
+[app]
+name = "deepin-terminal"
+
+[app.path]
+linux = ["$HOME/.config/deepin/deepin-terminal/config.conf"]
+macos = ["$HOME/.config/deepin/deepin-terminal/config.conf"]
+windows = []

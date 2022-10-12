@@ -1,0 +1,7 @@
+[app]
+name = "TablePlus"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/com.tinyapp.tableplus/plugins", "$HOME/library/application support/com.tinyapp.tableplus/cache/history", "$HOME/library/preferences/com.tinyapp.tableplus.plist", "$HOME/library/application support/com.tinyapp.tableplus/data"]
+windows = []

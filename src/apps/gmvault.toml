@@ -1,0 +1,7 @@
+[app]
+name = "GMVault"
+
+[app.path]
+linux = ["$HOME/.gmvault/gmvault_defaults.conf"]
+macos = ["$HOME/.gmvault/gmvault_defaults.conf"]
+windows = []

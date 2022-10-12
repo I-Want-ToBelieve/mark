@@ -1,0 +1,7 @@
+[app]
+name = "Factorio"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/factorio/saves", "$HOME/library/application support/factorio/player-data.json", "$HOME/library/application support/factorio/mods", "$HOME/library/application support/factorio/config"]
+windows = []

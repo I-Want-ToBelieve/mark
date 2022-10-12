@@ -1,0 +1,7 @@
+[app]
+name = "Affinity Designer"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/containers/affinity designer/data/library/application support/user"]
+windows = []

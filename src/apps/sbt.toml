@@ -1,0 +1,7 @@
+[app]
+name = "SBT"
+
+[app.path]
+linux = ["$HOME/.sbt/0.12/plugins/plugins.sbt", "$HOME/.sbt/0.12/build.sbt", "$HOME/.sbt/0.13/build.sbt", "$HOME/.sbt/1.0/global.sbt", "$HOME/.sbtconfig", "$HOME/.sbt/1.0/build.sbt", "$HOME/.sbt/0.13/plugins/build.sbt", "$HOME/.sbt/1.0/plugins/build.sbt", "$HOME/.sbt/0.12/plugins/build.sbt", "$HOME/.sbt/1.0/plugins/plugins.sbt", "$HOME/.sbt/0.13/plugins/plugins.sbt", "$HOME/.sbt/0.12/global.sbt", "$HOME/.sbt/0.13/global.sbt"]
+macos = ["$HOME/.sbt/0.12/plugins/plugins.sbt", "$HOME/.sbt/0.12/build.sbt", "$HOME/.sbt/0.13/build.sbt", "$HOME/.sbt/1.0/global.sbt", "$HOME/.sbtconfig", "$HOME/.sbt/1.0/build.sbt", "$HOME/.sbt/0.13/plugins/build.sbt", "$HOME/.sbt/1.0/plugins/build.sbt", "$HOME/.sbt/0.12/plugins/build.sbt", "$HOME/.sbt/1.0/plugins/plugins.sbt", "$HOME/.sbt/0.13/plugins/plugins.sbt", "$HOME/.sbt/0.12/global.sbt", "$HOME/.sbt/0.13/global.sbt"]
+windows = []

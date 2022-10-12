@@ -1,0 +1,7 @@
+[app]
+name = "Prezto"
+
+[app.path]
+linux = ["$HOME/.zpreztorc"]
+macos = ["$HOME/.zpreztorc"]
+windows = []

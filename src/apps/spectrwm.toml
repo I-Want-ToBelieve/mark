@@ -1,0 +1,7 @@
+[app]
+name = "Spectrwm"
+
+[app.path]
+linux = ["$HOME/.spectrwm.conf"]
+macos = ["$HOME/.spectrwm.conf"]
+windows = []

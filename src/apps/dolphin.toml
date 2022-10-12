@@ -1,0 +1,7 @@
+[app]
+name = "Dolphin"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.dolphin-emu.dolphin.plist", "$HOME/library/application support/dolphin"]
+windows = []

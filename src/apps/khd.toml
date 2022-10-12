@@ -1,0 +1,7 @@
+[app]
+name = "khd"
+
+[app.path]
+linux = ["$HOME/.khdrc"]
+macos = ["$HOME/.khdrc"]
+windows = []

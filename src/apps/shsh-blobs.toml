@@ -1,0 +1,7 @@
+[app]
+name = "SHSH Blobs"
+
+[app.path]
+linux = ["$HOME/.shsh"]
+macos = ["$HOME/.shsh"]
+windows = []

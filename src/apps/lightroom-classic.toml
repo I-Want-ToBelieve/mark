@@ -1,0 +1,7 @@
+[app]
+name = "Adobe Lightroom Classic"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.adobe.lightroomclassiccc7.plist"]
+windows = []

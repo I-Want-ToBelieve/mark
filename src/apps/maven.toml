@@ -1,0 +1,7 @@
+[app]
+name = "Maven"
+
+[app.path]
+linux = ["$HOME/.m2/settings.xml", "$HOME/.m2/toolchains.xml"]
+macos = ["$HOME/.m2/settings.xml", "$HOME/.m2/toolchains.xml"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Awareness"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.futureproof.awareness.plist"]
+windows = []

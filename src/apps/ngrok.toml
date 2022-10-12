@@ -1,0 +1,7 @@
+[app]
+name = "ngrok"
+
+[app.path]
+linux = ["$HOME/.ngrok2", "$HOME/.ngrok"]
+macos = ["$HOME/.ngrok2", "$HOME/.ngrok"]
+windows = []

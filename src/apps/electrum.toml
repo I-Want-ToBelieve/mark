@@ -1,0 +1,7 @@
+[app]
+name = "Electrum"
+
+[app.path]
+linux = ["$HOME/.electrum/config"]
+macos = ["$HOME/.electrum/config"]
+windows = []

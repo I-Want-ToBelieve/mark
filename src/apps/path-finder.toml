@@ -1,0 +1,7 @@
+[app]
+name = "Path Finder"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/path finder/settings", "$HOME/library/preferences/com.cocoatech.pathfinder.plist", "$HOME/library/application support/path finder/plugins"]
+windows = []

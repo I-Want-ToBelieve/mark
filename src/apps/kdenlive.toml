@@ -1,0 +1,7 @@
+[app]
+name = "Kdenlive"
+
+[app.path]
+linux = ["$HOME/.config/kdenliverc", "$HOME/kdenlive"]
+macos = ["$HOME/.config/kdenliverc", "$HOME/kdenlive"]
+windows = []

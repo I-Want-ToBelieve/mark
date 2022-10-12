@@ -1,0 +1,7 @@
+[app]
+name = "Apple Music"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.apple.music.plist", "$HOME/library/music/scripts", "$HOME/library/preferences/com.apple.music.eq.plist"]
+windows = []

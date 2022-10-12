@@ -1,0 +1,7 @@
+[app]
+name = "Cerebro"
+
+[app.path]
+linux = ["$HOME/.config/cerebro/plugins", "$HOME/.config/cerebro/config.json"]
+macos = ["$HOME/.config/cerebro/plugins", "$HOME/.config/cerebro/config.json", "$HOME/library/application support/cerebro/config.json", "$HOME/library/application support/cerebro/plugins"]
+windows = []

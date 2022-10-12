@@ -1,0 +1,7 @@
+[app]
+name = "Hazel"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/hazel", "$HOME/library/preferences/com.noodlesoft.hazel.plist"]
+windows = []

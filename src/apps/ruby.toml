@@ -1,0 +1,7 @@
+[app]
+name = "Ruby"
+
+[app.path]
+linux = ["$HOME/.aprc", "$HOME/.gemrc", "$HOME/.pryrc", "$HOME/.irbrc", "$HOME/.gem/credentials"]
+macos = ["$HOME/.aprc", "$HOME/.gemrc", "$HOME/.pryrc", "$HOME/.irbrc", "$HOME/.gem/credentials"]
+windows = []

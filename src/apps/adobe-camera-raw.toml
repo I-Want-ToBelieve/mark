@@ -1,0 +1,7 @@
+[app]
+name = "Adobe Camera Raw"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/adobe/cameraraw"]
+windows = []

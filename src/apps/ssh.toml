@@ -1,0 +1,7 @@
+[app]
+name = "SSH"
+
+[app.path]
+linux = ["$HOME/.ssh/config", "$HOME/.ssh/authorized_keys"]
+macos = ["$HOME/.ssh/config", "$HOME/.ssh/authorized_keys"]
+windows = []

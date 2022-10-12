@@ -1,0 +1,7 @@
+[app]
+name = "FileZilla"
+
+[app.path]
+linux = ["$HOME/.config/filezilla/filezilla.xml", "$HOME/.config/filezilla/sitemanager.xml", "$HOME/.config/filezilla/layout.xml", "$HOME/.filezilla"]
+macos = ["$HOME/.config/filezilla/filezilla.xml", "$HOME/.config/filezilla/sitemanager.xml", "$HOME/.config/filezilla/layout.xml", "$HOME/.filezilla"]
+windows = []

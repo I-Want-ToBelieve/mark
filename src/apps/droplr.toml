@@ -1,0 +1,7 @@
+[app]
+name = "Droplr"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.droplr.droplr-mac.plist"]
+windows = []

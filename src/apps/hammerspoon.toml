@@ -1,0 +1,7 @@
+[app]
+name = "Hammerspoon"
+
+[app.path]
+linux = ["$HOME/.hammerspoon"]
+macos = ["$HOME/.hammerspoon"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Shifty"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/io.natethompson.shifty.plist"]
+windows = []

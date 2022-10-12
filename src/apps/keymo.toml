@@ -1,0 +1,7 @@
+[app]
+name = "Keymo"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.manytricks.keymo.plist"]
+windows = []

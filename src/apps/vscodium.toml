@@ -1,0 +1,7 @@
+[app]
+name = "VSCodium"
+
+[app.path]
+linux = ["$HOME/.config/vscodium/user/keybindings.json", "$HOME/.config/vscodium/user/settings.json", "$HOME/.config/vscodium/user/snippets"]
+macos = ["$HOME/.config/vscodium/user/keybindings.json", "$HOME/.config/vscodium/user/settings.json", "$HOME/.config/vscodium/user/snippets", "$HOME/library/application support/vscodium/user/keybindings.json", "$HOME/library/application support/vscodium/user/settings.json", "$HOME/library/application support/vscodium/user/snippets"]
+windows = []

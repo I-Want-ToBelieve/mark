@@ -1,0 +1,7 @@
+[app]
+name = "CotEditor"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/coteditor", "$HOME/library/preferences/com.coteditor.coteditor.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Magnet"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.crowdcafe.windowmagnet.plist"]
+windows = []

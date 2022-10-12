@@ -1,0 +1,7 @@
+[app]
+name = "Loopback"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/loopback/devices.plist", "$HOME/library/preferences/com.rogueamoeba.loopback.plist"]
+windows = []

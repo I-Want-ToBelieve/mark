@@ -1,0 +1,7 @@
+[app]
+name = "GitUp"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/co.gitup.mac.plist"]
+windows = []

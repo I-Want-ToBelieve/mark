@@ -1,0 +1,7 @@
+[app]
+name = "Atom"
+
+[app.path]
+linux = ["$HOME/.atom/styles.less", "$HOME/.atom/config.cson", "$HOME/.atom/keymap.cson", "$HOME/.atom/snippets.cson", "$HOME/.atom/init.coffee", "$HOME/.atom/keymaps"]
+macos = ["$HOME/.atom/styles.less", "$HOME/.atom/config.cson", "$HOME/.atom/keymap.cson", "$HOME/.atom/snippets.cson", "$HOME/library/preferences/com.github.atom.plist", "$HOME/.atom/init.coffee", "$HOME/.atom/keymaps"]
+windows = []

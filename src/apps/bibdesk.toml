@@ -1,0 +1,7 @@
+[app]
+name = "BibDesk"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/edu.ucsd.cs.mmccrack.bibdesk.plist", "$HOME/library/application support/bibdesk"]
+windows = []

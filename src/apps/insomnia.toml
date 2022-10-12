@@ -1,0 +1,7 @@
+[app]
+name = "Insomnia"
+
+[app.path]
+linux = ["$HOME/.config/insomnia"]
+macos = ["$HOME/.config/insomnia", "$HOME/library/application support/insomnia"]
+windows = []

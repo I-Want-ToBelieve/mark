@@ -1,0 +1,7 @@
+[app]
+name = "Keyboard Maestro"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/keyboard maestro"]
+windows = []

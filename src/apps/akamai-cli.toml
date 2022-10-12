@@ -1,0 +1,7 @@
+[app]
+name = "Akamai-CLI"
+
+[app.path]
+linux = ["$HOME/.edgerc"]
+macos = ["$HOME/.edgerc"]
+windows = []

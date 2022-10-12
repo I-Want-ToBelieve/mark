@@ -1,0 +1,7 @@
+[app]
+name = "TripMode"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/tripmode"]
+windows = []

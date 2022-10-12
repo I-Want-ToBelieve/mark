@@ -1,0 +1,7 @@
+[app]
+name = "MySQL Workbench"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/mysql/workbench/server_instances.xml", "$HOME/library/application support/mysql/workbench/connections.xml", "$HOME/library/application support/mysql/workbench/wb_options.xml", "$HOME/library/preferences/com.oracle.mysql.workbench.plist"]
+windows = []

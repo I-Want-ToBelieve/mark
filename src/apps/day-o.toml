@@ -1,0 +1,7 @@
+[app]
+name = "Day-O"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.shauninman.day-o.plist"]
+windows = []

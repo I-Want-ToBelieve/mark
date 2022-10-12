@@ -1,0 +1,7 @@
+[app]
+name = "pass"
+
+[app.path]
+linux = ["$HOME/.password-store"]
+macos = ["$HOME/.password-store"]
+windows = []

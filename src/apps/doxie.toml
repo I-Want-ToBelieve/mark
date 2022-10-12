@@ -1,0 +1,7 @@
+[app]
+name = "Doxie"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.getdoxie.doxie.plist"]
+windows = []

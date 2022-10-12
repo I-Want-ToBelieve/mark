@@ -1,0 +1,7 @@
+[app]
+name = "Nushell"
+
+[app.path]
+linux = ["$HOME/.config/nushell/env.nu", "$HOME/.config/nushell/config.nu"]
+macos = ["$HOME/.config/nushell/env.nu", "$HOME/.config/nushell/config.nu", "$HOME/library/application support/nushell/config.nu", "$HOME/library/application support/nushell/env.nu"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "cVim"
+
+[app.path]
+linux = ["$HOME/.cvimrc"]
+macos = ["$HOME/.cvimrc"]
+windows = []

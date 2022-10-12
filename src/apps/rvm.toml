@@ -1,0 +1,7 @@
+[app]
+name = "Ruby Version Manager"
+
+[app.path]
+linux = ["$HOME/.rvmrc"]
+macos = ["$HOME/.rvmrc"]
+windows = []

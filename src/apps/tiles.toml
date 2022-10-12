@@ -1,0 +1,7 @@
+[app]
+name = "Tiles"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.sempliva.tiles.plist"]
+windows = []

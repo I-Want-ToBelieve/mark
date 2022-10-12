@@ -1,0 +1,7 @@
+[app]
+name = "yabai"
+
+[app.path]
+linux = ["$HOME/.config/yabai/yabairc", "$HOME/.yabairc"]
+macos = ["$HOME/.config/yabai/yabairc", "$HOME/.yabairc"]
+windows = []

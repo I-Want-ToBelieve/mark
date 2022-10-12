@@ -1,0 +1,7 @@
+[app]
+name = "Hyper.app"
+
+[app.path]
+linux = ["$HOME/.hyper.js"]
+macos = ["$HOME/.hyper.js"]
+windows = []

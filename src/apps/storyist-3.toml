@@ -1,0 +1,7 @@
+[app]
+name = "storyist-3"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/.com.storyist.storyist.plist", "$HOME/library/preferences/com.storyist.storyist.plist"]
+windows = []

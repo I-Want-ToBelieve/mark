@@ -1,0 +1,7 @@
+[app]
+name = "Affinity Photo"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/containers/affinity photo/data/library/application support/user"]
+windows = []

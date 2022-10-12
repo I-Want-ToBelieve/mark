@@ -1,0 +1,7 @@
+[app]
+name = "Xonsh"
+
+[app.path]
+linux = ["$HOME/.config/xonsh", "$HOME/.xonshrc"]
+macos = ["$HOME/.config/xonsh", "$HOME/.xonshrc"]
+windows = []

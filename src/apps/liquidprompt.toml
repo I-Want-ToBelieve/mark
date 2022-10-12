@@ -1,0 +1,7 @@
+[app]
+name = "Liquid Prompt"
+
+[app.path]
+linux = ["$HOME/.config/liquidpromptrc", "$HOME/.liquidpromptrc"]
+macos = ["$HOME/.config/liquidpromptrc", "$HOME/.liquidpromptrc"]
+windows = []

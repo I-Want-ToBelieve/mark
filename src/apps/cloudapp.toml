@@ -1,0 +1,7 @@
+[app]
+name = "CloudApp"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.linebreak.cloudappmacosx.plist"]
+windows = []

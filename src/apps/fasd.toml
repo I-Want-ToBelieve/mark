@@ -1,0 +1,7 @@
+[app]
+name = "fasd"
+
+[app.path]
+linux = ["$HOME/.fasd", "$HOME/.fasdrc"]
+macos = ["$HOME/.fasd", "$HOME/.fasdrc"]
+windows = []

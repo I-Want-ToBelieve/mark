@@ -1,0 +1,7 @@
+[app]
+name = "Consular"
+
+[app.path]
+linux = ["$HOME/.config/consular", "$HOME/.consularc"]
+macos = ["$HOME/.config/consular", "$HOME/.consularc"]
+windows = []

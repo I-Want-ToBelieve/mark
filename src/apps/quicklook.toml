@@ -1,0 +1,7 @@
+[app]
+name = "Quicklook"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/quicklook"]
+windows = []

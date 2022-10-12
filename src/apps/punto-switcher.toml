@@ -1,0 +1,7 @@
+[app]
+name = "Punto Switcher"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/ru.yandex.punto.plist"]
+windows = []

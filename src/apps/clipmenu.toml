@@ -1,0 +1,7 @@
+[app]
+name = "ClipMenu"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/clipmenu", "$HOME/library/preferences/com.naotaka.clipmenu.plist"]
+windows = []

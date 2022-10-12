@@ -1,0 +1,7 @@
+[app]
+name = "NoSQLBooster for MongoDB"
+
+[app.path]
+linux = ["$HOME/documents/nosqlbooster"]
+macos = ["$HOME/documents/nosqlbooster"]
+windows = []

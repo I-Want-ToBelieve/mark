@@ -1,0 +1,7 @@
+[app]
+name = "XChat"
+
+[app.path]
+linux = ["$HOME/.xchat2"]
+macos = ["$HOME/.xchat2"]
+windows = []

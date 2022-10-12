@@ -1,0 +1,7 @@
+[app]
+name = "Marta"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/org.yanex.marta/conf.json", "$HOME/library/application support/org.yanex.marta/favorites.json", "$HOME/library/application support/org.yanex.marta/favorites.marco", "$HOME/library/application support/org.yanex.marta/conf.marco"]
+windows = []

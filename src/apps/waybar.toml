@@ -1,0 +1,7 @@
+[app]
+name = "waybar"
+
+[app.path]
+linux = ["$HOME/.config/waybar"]
+macos = ["$HOME/.config/waybar"]
+windows = []

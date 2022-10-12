@@ -1,0 +1,7 @@
+[app]
+name = "Todo.txt CLI"
+
+[app.path]
+linux = ["$HOME/.todo/config"]
+macos = ["$HOME/.todo/config"]
+windows = []

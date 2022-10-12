@@ -1,0 +1,7 @@
+[app]
+name = "Aspell"
+
+[app.path]
+linux = ["$HOME/.aspell.en.pws", "$HOME/.aspell.conf", "$HOME/.aspell.en.prepl"]
+macos = ["$HOME/.aspell.en.pws", "$HOME/.aspell.conf", "$HOME/.aspell.en.prepl"]
+windows = []

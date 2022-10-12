@@ -1,0 +1,7 @@
+[app]
+name = "Billings Pro Server Admin"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.marketcircle.billingsproserveradmin.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Boto"
+
+[app.path]
+linux = ["$HOME/.boto"]
+macos = ["$HOME/.boto"]
+windows = []

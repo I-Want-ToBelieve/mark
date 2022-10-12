@@ -1,0 +1,7 @@
+[app]
+name = "Brave"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/bravesoftware/brave-browser/default/preferences"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "tint2"
+
+[app.path]
+linux = ["$HOME/.config/tint2/tint2rc"]
+macos = ["$HOME/.config/tint2/tint2rc"]
+windows = []

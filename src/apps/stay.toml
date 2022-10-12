@@ -1,0 +1,7 @@
+[app]
+name = "Stay"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.cordlessdog.stay.plist", "$HOME/library/application support/stay"]
+windows = []

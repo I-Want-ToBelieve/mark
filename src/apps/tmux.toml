@@ -1,0 +1,7 @@
+[app]
+name = "Tmux"
+
+[app.path]
+linux = ["$HOME/.config/tmux/tmux.conf", "$HOME/.tmux.conf"]
+macos = ["$HOME/.config/tmux/tmux.conf", "$HOME/.tmux.conf"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "ShowyEdge"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.pqrs.showyedge.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Shuttle"
+
+[app.path]
+linux = ["$HOME/.shuttle.json"]
+macos = ["$HOME/.shuttle.json"]
+windows = []

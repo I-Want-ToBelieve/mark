@@ -1,0 +1,7 @@
+[app]
+name = "WhatsApp Web"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/whatsapp.plist", "$HOME/library/application support/whatsapp/preferences", "$HOME/library/preferences/whatsapp-helper.plist", "$HOME/library/application support/whatsapp/settings.json"]
+windows = []

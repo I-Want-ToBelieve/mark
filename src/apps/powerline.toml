@@ -1,0 +1,7 @@
+[app]
+name = "Powerline"
+
+[app.path]
+linux = ["$HOME/.config/powerline/config.json", "$HOME/.config/powerline/colors.json", "$HOME/.config/powerline/colorschemes", "$HOME/.config/powerline/themes"]
+macos = ["$HOME/.config/powerline/config.json", "$HOME/.config/powerline/colors.json", "$HOME/.config/powerline/colorschemes", "$HOME/.config/powerline/themes"]
+windows = []

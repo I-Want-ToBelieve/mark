@@ -1,0 +1,7 @@
+[app]
+name = "Pear"
+
+[app.path]
+linux = ["$HOME/.pearrc"]
+macos = ["$HOME/.pearrc"]
+windows = []

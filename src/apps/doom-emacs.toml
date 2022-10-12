@@ -1,0 +1,7 @@
+[app]
+name = "Doom Emacs"
+
+[app.path]
+linux = ["$HOME/.doom.d"]
+macos = ["$HOME/.doom.d"]
+windows = []

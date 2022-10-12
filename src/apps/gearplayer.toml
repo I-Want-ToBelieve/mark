@@ -1,0 +1,7 @@
+[app]
+name = "Gear Player"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.treasurebox.magickeys.plist", "$HOME/library/application support/gear player/paddata.padl", "$HOME/library/preferences/com.treasurebox.gear.plist"]
+windows = []

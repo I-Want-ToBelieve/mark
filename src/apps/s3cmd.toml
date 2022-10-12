@@ -1,0 +1,7 @@
+[app]
+name = "S3cmd"
+
+[app.path]
+linux = ["$HOME/.s3cfg"]
+macos = ["$HOME/.s3cfg"]
+windows = []

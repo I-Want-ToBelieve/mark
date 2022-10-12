@@ -1,0 +1,7 @@
+[app]
+name = "Messages"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.apple.ichat.aim.plist", "$HOME/library/preferences/com.apple.ichat.yahoo.plist", "$HOME/library/preferences/com.apple.ichat.statusmessages.plist", "$HOME/library/preferences/com.apple.ichat.jabber.plist"]
+windows = []

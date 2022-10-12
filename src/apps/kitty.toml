@@ -1,0 +1,7 @@
+[app]
+name = "kitty"
+
+[app.path]
+linux = ["$HOME/.config/kitty/kitty.conf"]
+macos = ["$HOME/.config/kitty/kitty.conf"]
+windows = []

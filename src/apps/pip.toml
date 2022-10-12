@@ -1,0 +1,7 @@
+[app]
+name = "pip"
+
+[app.path]
+linux = ["$HOME/.config/pip/pip.conf", "$HOME/.pip/pip.conf"]
+macos = ["$HOME/.config/pip/pip.conf", "$HOME/.pip/pip.conf", "$HOME/library/application support/pip/pip.conf"]
+windows = []

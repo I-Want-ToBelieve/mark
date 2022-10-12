@@ -1,0 +1,7 @@
+[app]
+name = "Rubocop"
+
+[app.path]
+linux = ["$HOME/.rubocop.yml"]
+macos = ["$HOME/.rubocop.yml"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Telegram for macOS"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/ru.keepcoder.telegram.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "SecureCRT"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/vandyke/securecrt/config", "$HOME/library/preferences/com.vandyke.securecrt.plist"]
+windows = []

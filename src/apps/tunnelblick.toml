@@ -1,0 +1,7 @@
+[app]
+name = "Tunnelblick"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/tunnelblick/configurations"]
+windows = []

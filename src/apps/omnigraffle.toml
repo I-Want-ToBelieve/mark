@@ -1,0 +1,7 @@
+[app]
+name = "OmniGraffle"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/the omni group/omnigraffle"]
+windows = []

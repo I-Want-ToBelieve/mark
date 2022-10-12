@@ -1,0 +1,7 @@
+[app]
+name = "IDA Pro"
+
+[app.path]
+linux = ["$HOME/.idapro"]
+macos = ["$HOME/.idapro"]
+windows = []

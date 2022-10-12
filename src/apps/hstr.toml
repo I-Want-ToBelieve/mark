@@ -1,0 +1,7 @@
+[app]
+name = "hstr"
+
+[app.path]
+linux = ["$HOME/.hstr_blacklist", "$HOME/.hstr_favorites"]
+macos = ["$HOME/.hstr_blacklist", "$HOME/.hstr_favorites"]
+windows = []

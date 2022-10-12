@@ -1,0 +1,7 @@
+[app]
+name = "GnuPG"
+
+[app.path]
+linux = ["$HOME/.gnupg/trustdb.gpg", "$HOME/.gnupg/gpg.conf", "$HOME/.gnupg/gpg-agent.conf"]
+macos = ["$HOME/.gnupg/trustdb.gpg", "$HOME/.gnupg/gpg.conf", "$HOME/.gnupg/gpg-agent.conf"]
+windows = []

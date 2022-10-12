@@ -1,0 +1,7 @@
+[app]
+name = "Pow"
+
+[app.path]
+linux = ["$HOME/.powconfig", "$HOME/.powenv", "$HOME/.powrc"]
+macos = ["$HOME/.powconfig", "$HOME/.powenv", "$HOME/.powrc"]
+windows = []

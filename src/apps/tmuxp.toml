@@ -1,0 +1,7 @@
+[app]
+name = "tmuxp"
+
+[app.path]
+linux = ["$HOME/.tmuxp"]
+macos = ["$HOME/.tmuxp"]
+windows = []

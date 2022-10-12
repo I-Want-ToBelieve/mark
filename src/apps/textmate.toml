@@ -1,0 +1,7 @@
+[app]
+name = "TextMate"
+
+[app.path]
+linux = ["$HOME/.tm_properties"]
+macos = ["$HOME/.tm_properties", "$HOME/library/preferences/com.macromates.textmate.latex_config.plist", "$HOME/library/application support/textmate/bundles", "$HOME/library/application support/textmate/managed/bundles", "$HOME/library/application support/textmate/plugins", "$HOME/library/application support/textmate/pristine copy"]
+windows = []

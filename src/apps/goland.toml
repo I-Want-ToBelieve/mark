@@ -1,0 +1,7 @@
+[app]
+name = "GoLand"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/goland2018.2", "$HOME/library/preferences/goland2018.1", "$HOME/library/preferences/gogland1.0", "$HOME/library/application support/goland2018.1", "$HOME/library/preferences/goland2018.3", "$HOME/library/application support/goland2018.3", "$HOME/library/application support/gogland1.0", "$HOME/library/application support/goland2017.3", "$HOME/library/preferences/goland2017.3", "$HOME/library/application support/goland2018.2", "$HOME/library/preferences/com.jetbrains.gogland-eap.plist"]
+windows = []

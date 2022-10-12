@@ -1,0 +1,7 @@
+[app]
+name = "composer"
+
+[app.path]
+linux = ["$HOME/.composer/auth.json", "$HOME/.composer/config.json", "$HOME/.composer/composer.json"]
+macos = ["$HOME/.composer/auth.json", "$HOME/.composer/config.json", "$HOME/.composer/composer.json"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Spectacle"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.divisiblebyzero.spectacle.plist", "$HOME/library/application support/spectacle"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "AppCode 3.1"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/appcode31", "$HOME/library/preferences/appcode31"]
+windows = []

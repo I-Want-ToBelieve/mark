@@ -1,0 +1,7 @@
+[app]
+name = "Tmuxinator"
+
+[app.path]
+linux = ["$HOME/.config/tmuxinator"]
+macos = ["$HOME/.config/tmuxinator"]
+windows = []

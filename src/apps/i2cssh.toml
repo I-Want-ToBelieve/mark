@@ -1,0 +1,7 @@
+[app]
+name = "i2cssh"
+
+[app.path]
+linux = ["$HOME/.i2csshrc"]
+macos = ["$HOME/.i2csshrc"]
+windows = []

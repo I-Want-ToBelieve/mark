@@ -1,0 +1,7 @@
+[app]
+name = "Gas Mask"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/gas mask", "$HOME/library/preferences/ee.clockwise.gmask.plist"]
+windows = []

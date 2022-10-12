@@ -1,0 +1,7 @@
+[app]
+name = "MagicPrefs"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.vladalexa.magicprefs.magicprefsplugins.plist", "$HOME/library/preferences/com.vladalexa.magicprefs.plist"]
+windows = []

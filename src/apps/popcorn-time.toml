@@ -1,0 +1,7 @@
+[app]
+name = "Popcorn-Time"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/popcorn-time/data/movies.db", "$HOME/library/application support/popcorn-time/data/shows.db", "$HOME/library/application support/popcorn-time/data/watched.db", "$HOME/library/application support/popcorn-time/data/settings.db", "$HOME/library/application support/popcorn-time/data/bookmarks.db"]
+windows = []

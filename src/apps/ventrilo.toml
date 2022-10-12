@@ -1,0 +1,7 @@
+[app]
+name = "Ventrilo"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/ventrilo"]
+windows = []

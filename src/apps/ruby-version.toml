@@ -1,0 +1,7 @@
+[app]
+name = "Ruby Version"
+
+[app.path]
+linux = ["$HOME/.ruby-version"]
+macos = ["$HOME/.ruby-version"]
+windows = []

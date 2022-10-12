@@ -1,0 +1,7 @@
+[app]
+name = "Remote Desktop Manager"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/com.devolutions.remotedesktopmanager/connections.db", "$HOME/library/application support/com.devolutions.remotedesktopmanager.free/connections.db"]
+windows = []

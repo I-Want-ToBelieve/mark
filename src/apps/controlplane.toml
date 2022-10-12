@@ -1,0 +1,7 @@
+[app]
+name = "ControlPlane"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.dustinrue.controlplane.plist"]
+windows = []

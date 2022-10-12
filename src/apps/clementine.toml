@@ -1,0 +1,7 @@
+[app]
+name = "Clementine"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.clementine-player.clementine.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "npmrc"
+
+[app.path]
+linux = ["$HOME/.npmrcs"]
+macos = ["$HOME/.npmrcs"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Rails"
+
+[app.path]
+linux = ["$HOME/.railsrc"]
+macos = ["$HOME/.railsrc"]
+windows = []

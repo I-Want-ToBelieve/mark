@@ -1,0 +1,7 @@
+[app]
+name = "AusKey"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/auskey/keystore.xml"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Environmental Station Alpha"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/mmfapplications"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Rime"
+
+[app.path]
+linux = ["$HOME/.config/ibus/rimeuser.yaml", "$HOME/.config/ibus/rimedefault.yaml", "$HOME/.config/ibus/rimesquirrel.custom.yaml", "$HOME/.config/ibus/rimedefault.custom.yaml", "$HOME/.config/ibus/rimesymbols.yaml", "$HOME/.config/ibus/rimesquirrel.yaml", "$HOME/.config/ibus/rimeinstallation.yaml"]
+macos = ["$HOME/.config/ibus/rimeuser.yaml", "$HOME/.config/ibus/rimedefault.yaml", "$HOME/.config/ibus/rimesquirrel.custom.yaml", "$HOME/.config/ibus/rimedefault.custom.yaml", "$HOME/.config/ibus/rimesymbols.yaml", "$HOME/.config/ibus/rimesquirrel.yaml", "$HOME/.config/ibus/rimeinstallation.yaml", "$HOME/library/rime/squirrel.custom.yaml", "$HOME/library/rime/installation.yaml", "$HOME/library/rime/default.custom.yaml", "$HOME/library/rime/default.yaml", "$HOME/library/rime/squirrel.yaml", "$HOME/library/rime/symbols.yaml", "$HOME/library/rime/user.yaml"]
+windows = []

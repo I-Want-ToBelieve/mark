@@ -1,0 +1,7 @@
+[app]
+name = "Screenhero"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.screenhero.screenhero.plist"]
+windows = []

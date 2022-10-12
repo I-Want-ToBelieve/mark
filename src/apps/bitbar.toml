@@ -1,0 +1,7 @@
+[app]
+name = "BitBar"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.matryer.bitbar.plist"]
+windows = []

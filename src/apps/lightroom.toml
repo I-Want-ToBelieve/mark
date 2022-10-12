@@ -1,0 +1,7 @@
+[app]
+name = "Adobe Lightroom"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.adobe.lightroom6.plist", "$HOME/library/application support/adobe/lightroom", "$HOME/library/preferences/com.adobe.lightroom5.plist", "$HOME/library/preferences/com.adobe.lightroom4.plist"]
+windows = []

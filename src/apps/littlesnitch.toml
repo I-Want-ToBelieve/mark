@@ -1,0 +1,7 @@
+[app]
+name = "LittleSnitch"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/little snitch/configuration.xpl", "$HOME/library/preferences/at.obdev.littlesnitchnetworkmonitor.plist", "$HOME/library/preferences/at.obdev.littlesnitch.networkmonitor.plist", "$HOME/library/application support/little snitch/configuration.user.xpl", "$HOME/library/application support/little snitch/configuration4.user.xpl", "$HOME/library/application support/little snitch/rules.usr.xpl"]
+windows = []

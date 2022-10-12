@@ -1,0 +1,7 @@
+[app]
+name = "jrnl"
+
+[app.path]
+linux = ["$HOME/.config/jrnl/jrnl.yaml", "$HOME/.jrnl_config"]
+macos = ["$HOME/.config/jrnl/jrnl.yaml", "$HOME/.jrnl_config"]
+windows = []

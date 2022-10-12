@@ -1,0 +1,7 @@
+[app]
+name = "OBS"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.obsproject.obs-studio.plist", "$HOME/library/application support/obs-studio/global.ini", "$HOME/library/application support/obs-studio/basic"]
+windows = []

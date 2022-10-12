@@ -1,0 +1,7 @@
+[app]
+name = "CopyQ"
+
+[app.path]
+linux = ["$HOME/.config/copyq"]
+macos = ["$HOME/.config/copyq"]
+windows = []

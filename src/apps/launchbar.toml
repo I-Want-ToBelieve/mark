@@ -1,0 +1,7 @@
+[app]
+name = "LaunchBar"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/launchbar/snippets", "$HOME/library/application support/launchbar/actions", "$HOME/library/preferences/at.obdev.launchbar.plist", "$HOME/library/application support/launchbar/customshortcuts.plist", "$HOME/library/application support/launchbar/configuration.plist"]
+windows = []

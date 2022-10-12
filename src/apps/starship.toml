@@ -1,0 +1,7 @@
+[app]
+name = "Starship"
+
+[app.path]
+linux = ["$HOME/.config/starship.toml"]
+macos = ["$HOME/.config/starship.toml"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Smooth Mouse"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.cyberic.smoothmouse.plist"]
+windows = []

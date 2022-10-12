@@ -1,0 +1,7 @@
+[app]
+name = "Subversion"
+
+[app.path]
+linux = ["$HOME/.subversion"]
+macos = ["$HOME/.subversion"]
+windows = []

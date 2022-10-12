@@ -1,0 +1,7 @@
+[app]
+name = "SBCL"
+
+[app.path]
+linux = ["$HOME/.sbclrc"]
+macos = ["$HOME/.sbclrc"]
+windows = []

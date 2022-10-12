@@ -1,0 +1,7 @@
+[app]
+name = "k9s"
+
+[app.path]
+linux = ["$HOME/.config/k9s/skin.yml", "$HOME/.config/k9s/config.yml"]
+macos = ["$HOME/.config/k9s/skin.yml", "$HOME/.config/k9s/config.yml"]
+windows = []

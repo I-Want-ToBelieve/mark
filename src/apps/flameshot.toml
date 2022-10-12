@@ -1,0 +1,7 @@
+[app]
+name = "Flameshot"
+
+[app.path]
+linux = ["$HOME/.config/flameshot/flameshot.ini"]
+macos = ["$HOME/.config/flameshot/flameshot.ini"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "R"
+
+[app.path]
+linux = ["$HOME/.r", "$HOME/.rprofile", "$HOME/.rhistory", "$HOME/.rprofile.d", "$HOME/.renviron", "$HOME/.renviron.d"]
+macos = ["$HOME/library/preferences/org.r-project.r.plist", "$HOME/.r", "$HOME/.rprofile", "$HOME/.rhistory", "$HOME/.rprofile.d", "$HOME/.renviron", "$HOME/.renviron.d"]
+windows = []

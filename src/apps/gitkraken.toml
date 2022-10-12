@@ -1,0 +1,7 @@
+[app]
+name = "GitKraken"
+
+[app.path]
+linux = ["$HOME/.gitkraken"]
+macos = ["$HOME/library/preferences/com.axosoft.gitkraken.plist", "$HOME/.gitkraken"]
+windows = []

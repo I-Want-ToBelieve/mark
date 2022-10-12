@@ -1,0 +1,7 @@
+[app]
+name = "Typinator"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/typinator", "$HOME/library/preferences/com.macility.typinator2.plist"]
+windows = []

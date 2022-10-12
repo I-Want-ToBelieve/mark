@@ -1,0 +1,7 @@
+[app]
+name = "PicGo"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/picgo/data.json"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "ExpanDrive"
+
+[app.path]
+linux = ["$HOME/preferences/com.expandrive.expandrive3.plist", "$HOME/preferences/com.expandrive.expandrive2.plist"]
+macos = ["$HOME/preferences/com.expandrive.expandrive3.plist", "$HOME/library/application support/expandrive", "$HOME/preferences/com.expandrive.expandrive2.plist"]
+windows = []

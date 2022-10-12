@@ -1,0 +1,7 @@
+[app]
+name = "Viscosity"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.viscosityvpn.viscosity.plist", "$HOME/library/application support/viscosity/openvpn"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "kubectl"
+
+[app.path]
+linux = ["$HOME/.kube/config"]
+macos = ["$HOME/.kube/config"]
+windows = []

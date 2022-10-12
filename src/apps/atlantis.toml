@@ -1,0 +1,7 @@
+[app]
+name = "Atlantis"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/atlantis"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "KeePassXC"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.keepassxc.keepassxc.plist", "$HOME/library/application support/keepassxc/keepassxc.ini"]
+windows = []

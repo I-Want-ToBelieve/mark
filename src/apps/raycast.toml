@@ -1,0 +1,7 @@
+[app]
+name = "Raycast"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.raycast.macos.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Alacritty"
+
+[app.path]
+linux = ["$HOME/.config/alacritty/alacritty.yml", "$HOME/.alacritty.yml"]
+macos = ["$HOME/.config/alacritty/alacritty.yml", "$HOME/.alacritty.yml"]
+windows = []

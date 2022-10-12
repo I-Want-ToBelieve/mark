@@ -1,0 +1,7 @@
+[app]
+name = "Swish"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/co.highlyopinionated.swish.plist"]
+windows = []

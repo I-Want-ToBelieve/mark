@@ -1,0 +1,7 @@
+[app]
+name = "skhd"
+
+[app.path]
+linux = ["$HOME/.config/skhd/skhdrc", "$HOME/.skhdrc"]
+macos = ["$HOME/.config/skhd/skhdrc", "$HOME/.skhdrc"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Neofetch"
+
+[app.path]
+linux = ["$HOME/.config/neofetch/config.conf"]
+macos = ["$HOME/.config/neofetch/config.conf"]
+windows = []

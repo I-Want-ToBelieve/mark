@@ -1,0 +1,7 @@
+[app]
+name = "Startupizer2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/startupizer"]
+windows = []

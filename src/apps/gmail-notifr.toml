@@ -1,0 +1,7 @@
+[app]
+name = "Gmail Notifr"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.ashchan.gmailnotifr.plist"]
+windows = []

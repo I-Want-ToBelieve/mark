@@ -1,0 +1,7 @@
+[app]
+name = "iTunes Scripts"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/itunes/scripts"]
+windows = []

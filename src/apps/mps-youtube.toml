@@ -1,0 +1,7 @@
+[app]
+name = "MPS Youtube"
+
+[app.path]
+linux = ["$HOME/.config/mps-youtube/config", "$HOME/.config/mps-youtube/playlist_v2"]
+macos = ["$HOME/.config/mps-youtube/config", "$HOME/.config/mps-youtube/playlist_v2"]
+windows = []

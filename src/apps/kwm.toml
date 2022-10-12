@@ -1,0 +1,7 @@
+[app]
+name = "Kwm"
+
+[app.path]
+linux = ["$HOME/.kwm"]
+macos = ["$HOME/.kwm"]
+windows = []

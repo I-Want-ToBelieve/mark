@@ -1,0 +1,7 @@
+[app]
+name = "AppCode 2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/appcode20", "$HOME/library/preferences/appcode20"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Choosy"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/choosy/behaviours.plist"]
+windows = []

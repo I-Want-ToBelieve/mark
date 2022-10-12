@@ -1,0 +1,7 @@
+[app]
+name = "Name Mangler"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/name mangler", "$HOME/library/preferences/com.manytricks.namemangler.plist"]
+windows = []

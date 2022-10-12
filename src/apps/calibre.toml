@@ -1,0 +1,7 @@
+[app]
+name = "Calibre"
+
+[app.path]
+linux = ["$HOME/.config/calibre"]
+macos = ["$HOME/.config/calibre", "$HOME/library/preferences/calibre"]
+windows = []

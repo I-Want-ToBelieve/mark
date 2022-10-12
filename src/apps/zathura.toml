@@ -1,0 +1,7 @@
+[app]
+name = "zathura"
+
+[app.path]
+linux = ["$HOME/.config/zathura/zathurarc"]
+macos = ["$HOME/.config/zathura/zathurarc"]
+windows = []

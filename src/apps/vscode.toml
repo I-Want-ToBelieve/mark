@@ -1,0 +1,7 @@
+[app]
+name = "Visual Studio Code"
+
+[app.path]
+linux = ["$HOME/.config/code/user/keybindings.json", "$HOME/.config/code/user/snippets", "$HOME/.config/code/user/settings.json"]
+macos = ["$HOME/.config/code/user/keybindings.json", "$HOME/.config/code/user/snippets", "$HOME/.config/code/user/settings.json", "$HOME/library/application support/code/user/settings.json", "$HOME/library/application support/code/user/snippets", "$HOME/library/application support/code/user/keybindings.json"]
+windows = []

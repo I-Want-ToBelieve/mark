@@ -1,0 +1,7 @@
+[app]
+name = "FastScripts"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.red-sweater.fastscripts.plist", "$HOME/library/application support/fastscripts"]
+windows = []

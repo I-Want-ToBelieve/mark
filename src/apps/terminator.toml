@@ -1,0 +1,7 @@
+[app]
+name = "Terminator"
+
+[app.path]
+linux = ["$HOME/.config/terminator/config"]
+macos = ["$HOME/.config/terminator/config"]
+windows = []

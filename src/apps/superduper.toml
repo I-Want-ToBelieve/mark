@@ -1,0 +1,7 @@
+[app]
+name = "SuperDuper!"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/superduper!"]
+windows = []

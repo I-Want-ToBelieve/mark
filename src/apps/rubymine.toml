@@ -1,0 +1,7 @@
+[app]
+name = "RubyMine"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/rubymine2018.1", "$HOME/library/preferences/rubymine70", "$HOME/library/application support/rubymine2016.1", "$HOME/library/preferences/rubymine2016.2", "$HOME/library/preferences/rubymine80", "$HOME/library/preferences/rubymine2016.3", "$HOME/library/application support/rubymine60", "$HOME/library/application support/rubymine2016.2", "$HOME/library/preferences/rubymine60", "$HOME/library/application support/rubymine2017.3", "$HOME/library/application support/rubymine70", "$HOME/library/preferences/rubymine50", "$HOME/library/preferences/rubymine2018.1", "$HOME/library/preferences/rubymine2017.3", "$HOME/library/application support/rubymine40", "$HOME/library/application support/rubymine2016.3", "$HOME/library/preferences/rubymine2016.1", "$HOME/library/application support/rubymine50", "$HOME/library/application support/rubymine80", "$HOME/library/preferences/rubymine40"]
+windows = []

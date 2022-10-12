@@ -1,0 +1,7 @@
+[app]
+name = "Arm"
+
+[app.path]
+linux = ["$HOME/.arm/armrc"]
+macos = ["$HOME/.arm/armrc"]
+windows = []

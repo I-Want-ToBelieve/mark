@@ -1,0 +1,7 @@
+[app]
+name = "Slic3r"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/slic3r"]
+windows = []

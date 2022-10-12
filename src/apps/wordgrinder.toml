@@ -1,0 +1,7 @@
+[app]
+name = "wordgrinder"
+
+[app.path]
+linux = ["$HOME/.wordgrinder.settings"]
+macos = ["$HOME/.wordgrinder.settings"]
+windows = []

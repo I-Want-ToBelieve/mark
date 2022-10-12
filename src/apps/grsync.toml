@@ -1,0 +1,7 @@
+[app]
+name = "grsync"
+
+[app.path]
+linux = ["$HOME/.grsync/grsync.ini"]
+macos = ["$HOME/.grsync/grsync.ini"]
+windows = []

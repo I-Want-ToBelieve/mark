@@ -1,0 +1,7 @@
+[app]
+name = "SpaceVim"
+
+[app.path]
+linux = ["$HOME/.spacevim.d"]
+macos = ["$HOME/.spacevim.d"]
+windows = []

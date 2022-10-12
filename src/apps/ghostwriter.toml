@@ -1,0 +1,7 @@
+[app]
+name = "Ghostwriter"
+
+[app.path]
+linux = ["$HOME/.config/ghostwriter"]
+macos = ["$HOME/.config/ghostwriter"]
+windows = []

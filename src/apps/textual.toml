@@ -1,0 +1,7 @@
+[app]
+name = "Textual"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/containers/com.codeux.irc.textual/data/library/preferences/com.codeux.irc.textual.plist", "$HOME/library/application support/textual irc", "$HOME/library/preferences/com.codeux.irc.textual.plist"]
+windows = []

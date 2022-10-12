@@ -1,0 +1,7 @@
+[app]
+name = "SABnzbd"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/sabnzbd/sabnzbd.ini", "$HOME/library/application support/sabnzbd/admin/rss_data.sab"]
+windows = []

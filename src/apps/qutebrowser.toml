@@ -1,0 +1,7 @@
+[app]
+name = "Qutebrowser"
+
+[app.path]
+linux = ["$HOME/.config/qutebrowser/config.py", "$HOME/.config/qutebrowser/qutebrowser.conf", "$HOME/.qutebrowser/config.py"]
+macos = ["$HOME/.config/qutebrowser/config.py", "$HOME/.config/qutebrowser/qutebrowser.conf", "$HOME/.qutebrowser/config.py"]
+windows = []

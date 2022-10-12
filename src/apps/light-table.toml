@@ -1,0 +1,7 @@
+[app]
+name = "Light Table"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/lighttable/plugins", "$HOME/library/application support/lighttable/settings", "$HOME/library/application support/lighttable/user", "$HOME/library/preferences/com.kodowa.lighttable.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Wireshark 2"
+
+[app.path]
+linux = ["$HOME/.config/wireshark"]
+macos = ["$HOME/.config/wireshark"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "DbVisualizer"
+
+[app.path]
+linux = ["$HOME/.dbvis"]
+macos = ["$HOME/.dbvis"]
+windows = []

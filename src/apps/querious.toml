@@ -1,0 +1,7 @@
+[app]
+name = "Querious"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.araeliumgroup.querious.plist", "$HOME/library/application support/querious"]
+windows = []

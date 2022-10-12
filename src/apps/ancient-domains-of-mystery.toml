@@ -1,0 +1,7 @@
+[app]
+name = "Ancient Domains of Mystery"
+
+[app.path]
+linux = ["$HOME/.adom.data"]
+macos = ["$HOME/.adom.data"]
+windows = []

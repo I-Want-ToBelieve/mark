@@ -1,0 +1,7 @@
+[app]
+name = "Capture One"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/capture one"]
+windows = []

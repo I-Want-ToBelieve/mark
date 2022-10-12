@@ -1,0 +1,7 @@
+[app]
+name = "Keybase"
+
+[app.path]
+linux = ["$HOME/.keybase/config.json"]
+macos = ["$HOME/.keybase/config.json"]
+windows = []

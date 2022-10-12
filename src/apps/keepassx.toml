@@ -1,0 +1,7 @@
+[app]
+name = "KeePassX"
+
+[app.path]
+linux = ["$HOME/.config/keepassx/keepassx2.ini", "$HOME/.keepassx"]
+macos = ["$HOME/.config/keepassx/keepassx2.ini", "$HOME/library/preferences/org.keepassx.keepassx.plist", "$HOME/library/application support/keepassx/keepassx2.ini", "$HOME/.keepassx"]
+windows = []

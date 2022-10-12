@@ -1,0 +1,7 @@
+[app]
+name = "Wget"
+
+[app.path]
+linux = ["$HOME/.wgetrc", "$HOME/.wget-hsts"]
+macos = ["$HOME/.wgetrc", "$HOME/.wget-hsts"]
+windows = []

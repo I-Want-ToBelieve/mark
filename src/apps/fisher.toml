@@ -1,0 +1,7 @@
+[app]
+name = "Fisher"
+
+[app.path]
+linux = ["$HOME/.config/fish/fish_plugins"]
+macos = ["$HOME/.config/fish/fish_plugins"]
+windows = []

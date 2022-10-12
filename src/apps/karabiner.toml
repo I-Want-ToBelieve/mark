@@ -1,0 +1,7 @@
+[app]
+name = "Karabiner"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/org.pqrs.karabiner-axnotifier.plist", "$HOME/library/preferences/org.pqrs.karabiner.multitouchextension.plist", "$HOME/library/application support/karabiner", "$HOME/library/preferences/org.pqrs.karabiner.plist"]
+windows = []

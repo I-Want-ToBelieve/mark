@@ -1,0 +1,7 @@
+[app]
+name = "Hexels"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.hex-ray.hexels.plist"]
+windows = []

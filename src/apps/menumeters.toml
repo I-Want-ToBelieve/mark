@@ -1,0 +1,7 @@
+[app]
+name = "MenuMeters"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.ragingmenace.menumeters.plist"]
+windows = []

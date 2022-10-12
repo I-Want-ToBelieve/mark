@@ -1,0 +1,7 @@
+[app]
+name = "Oh My Fish"
+
+[app.path]
+linux = ["$HOME/.config/omf"]
+macos = ["$HOME/.config/omf"]
+windows = []

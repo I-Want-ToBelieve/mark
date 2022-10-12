@@ -1,0 +1,7 @@
+[app]
+name = "MATLAB"
+
+[app.path]
+linux = ["$HOME/.matlab"]
+macos = ["$HOME/.matlab"]
+windows = []

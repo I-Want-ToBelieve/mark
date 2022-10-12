@@ -1,0 +1,7 @@
+[app]
+name = "Pidgin"
+
+[app.path]
+linux = ["$HOME/.purple"]
+macos = ["$HOME/.purple"]
+windows = []

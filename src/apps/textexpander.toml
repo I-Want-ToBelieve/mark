@@ -1,0 +1,7 @@
+[app]
+name = "TextExpander"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.smileonmymac.textexpander.plist", "$HOME/library/application support/textexpander/settings.textexpander"]
+windows = []

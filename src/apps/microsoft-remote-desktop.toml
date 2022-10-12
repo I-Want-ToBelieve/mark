@@ -1,0 +1,7 @@
+[app]
+name = "Microsoft Remote Desktop"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/containers/com.microsoft.rdc.macos/data/library/preferences/com.microsoft.rdc.macos.plist"]
+windows = []

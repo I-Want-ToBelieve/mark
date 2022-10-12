@@ -1,0 +1,7 @@
+[app]
+name = "tilix"
+
+[app.path]
+linux = ["$HOME/tilix.dconf"]
+macos = ["$HOME/tilix.dconf"]
+windows = []

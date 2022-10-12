@@ -1,0 +1,7 @@
+[app]
+name = "flake8"
+
+[app.path]
+linux = ["$HOME/.config/flake8", "$HOME/.flake8"]
+macos = ["$HOME/.config/flake8", "$HOME/.flake8"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "ProxyChains"
+
+[app.path]
+linux = ["$HOME/.proxychains"]
+macos = ["$HOME/.proxychains"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "VLC"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/org.videolan.vlc", "$HOME/library/preferences/org.videolan.vlc", "$HOME/library/preferences/org.videolan.vlc.lssharedfilelist.plist", "$HOME/library/preferences/org.videolan.vlc.plist"]
+windows = []

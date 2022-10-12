@@ -1,0 +1,7 @@
+[app]
+name = "Chicken"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/net.sourceforge.chicken.plist"]
+windows = []

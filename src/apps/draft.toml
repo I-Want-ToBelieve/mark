@@ -1,0 +1,7 @@
+[app]
+name = "Draft"
+
+[app.path]
+linux = ["$HOME/.draft/config.toml"]
+macos = ["$HOME/.draft/config.toml"]
+windows = []

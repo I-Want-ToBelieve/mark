@@ -1,0 +1,7 @@
+[app]
+name = "PyPI"
+
+[app.path]
+linux = ["$HOME/.pypirc"]
+macos = ["$HOME/.pypirc"]
+windows = []

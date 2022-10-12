@@ -1,0 +1,7 @@
+[app]
+name = "PsySH"
+
+[app.path]
+linux = ["$HOME/.config/psysh/config.php"]
+macos = ["$HOME/.config/psysh/config.php"]
+windows = []

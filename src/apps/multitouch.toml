@@ -1,0 +1,7 @@
+[app]
+name = "Multitouch"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.brassmonkery.multitouch.plist"]
+windows = []

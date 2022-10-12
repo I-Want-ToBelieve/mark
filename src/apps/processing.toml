@@ -1,0 +1,7 @@
+[app]
+name = "Processing"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/processing/preferences.txt"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "lf"
+
+[app.path]
+linux = ["$HOME/.config/lf/lfrc"]
+macos = ["$HOME/.config/lf/lfrc"]
+windows = []

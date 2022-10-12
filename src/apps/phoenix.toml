@@ -1,0 +1,7 @@
+[app]
+name = "Phoenix"
+
+[app.path]
+linux = ["$HOME/.phoenix.js"]
+macos = ["$HOME/.phoenix.js"]
+windows = []

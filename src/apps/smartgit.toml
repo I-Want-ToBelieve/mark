@@ -1,0 +1,7 @@
+[app]
+name = "SmartGit"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/smartgit/smartgit.vmoptions"]
+windows = []

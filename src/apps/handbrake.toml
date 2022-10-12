@@ -1,0 +1,7 @@
+[app]
+name = "HandBrake"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/containers/fr.handbrake.handbrake/data/library/application support/handbrake/userpresets.json"]
+windows = []

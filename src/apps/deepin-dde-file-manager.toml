@@ -1,0 +1,7 @@
+[app]
+name = "deepin-dde-file-manager"
+
+[app.path]
+linux = ["$HOME/.config/deepin/dde-file-manager.json"]
+macos = ["$HOME/.config/deepin/dde-file-manager.json"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Soulver"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/app.soulver.mac.plist", "$HOME/library/preferences/com.acqualia.soulver.plist", "$HOME/library/application support/soulver 3", "$HOME/library/application support/soulver"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "XtraFinder"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.trankynam.xtrafinder.plist"]
+windows = []

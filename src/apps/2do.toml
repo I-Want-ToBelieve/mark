@@ -1,0 +1,7 @@
+[app]
+name = "2Do"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.guidedways.todomac.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "XLD"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/xld", "$HOME/library/preferences/jp.tmkk.xld.plist"]
+windows = []

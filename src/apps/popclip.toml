@@ -1,0 +1,7 @@
+[app]
+name = "PopClip"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.pilotmoon.popclip.plist", "$HOME/library/application support/popclip/extensions"]
+windows = []

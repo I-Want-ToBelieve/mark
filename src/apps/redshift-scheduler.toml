@@ -1,0 +1,7 @@
+[app]
+name = "Redshift Scheduler"
+
+[app.path]
+linux = ["$HOME/.config/redshift-scheduler/rules.conf"]
+macos = ["$HOME/.config/redshift-scheduler/rules.conf"]
+windows = []

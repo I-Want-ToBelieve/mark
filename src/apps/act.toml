@@ -1,0 +1,7 @@
+[app]
+name = "act"
+
+[app.path]
+linux = ["$HOME/.actrc"]
+macos = ["$HOME/.actrc"]
+windows = []

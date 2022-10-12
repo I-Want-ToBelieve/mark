@@ -1,0 +1,7 @@
+[app]
+name = "Boxer"
+
+[app.path]
+linux = ["$HOME/applications/dos games"]
+macos = ["$HOME/library/preferences/net.washboardabs.boxer.plist", "$HOME/applications/dos games"]
+windows = []

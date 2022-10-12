@@ -1,0 +1,7 @@
+[app]
+name = "HyperDock"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/application support/hyperdock", "$HOME/library/preferences/de.bahoom.hyperdock.plist", "$HOME/library/preferences/de.bahoom.hyperdock.prefpane.plist"]
+windows = []

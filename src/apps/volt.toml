@@ -1,0 +1,7 @@
+[app]
+name = "Volt"
+
+[app.path]
+linux = ["$HOME/volt/rc", "$HOME/volt/lock.json", "$HOME/volt/plugconf"]
+macos = ["$HOME/volt/rc", "$HOME/volt/lock.json", "$HOME/volt/plugconf"]
+windows = []

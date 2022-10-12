@@ -1,0 +1,7 @@
+[app]
+name = "Swaywm"
+
+[app.path]
+linux = ["$HOME/.config/sway"]
+macos = ["$HOME/.config/sway"]
+windows = []

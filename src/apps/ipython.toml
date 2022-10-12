@@ -1,0 +1,7 @@
+[app]
+name = "IPython"
+
+[app.path]
+linux = ["$HOME/.ipython"]
+macos = ["$HOME/.ipython"]
+windows = []

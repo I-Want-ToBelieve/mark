@@ -1,0 +1,7 @@
+[app]
+name = "Gradle"
+
+[app.path]
+linux = ["$HOME/.gradle/init.d", "$HOME/.gradle/gradle.properties", "$HOME/.gradle/init.gradle"]
+macos = ["$HOME/.gradle/init.d", "$HOME/.gradle/gradle.properties", "$HOME/.gradle/init.gradle"]
+windows = []

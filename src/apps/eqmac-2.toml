@@ -1,0 +1,7 @@
+[app]
+name = "eqMac2"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.bitgapp.eqmac2.plist"]
+windows = []

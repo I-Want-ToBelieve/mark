@@ -1,0 +1,7 @@
+[app]
+name = "Moom"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.manytricks.moom.plist", "$HOME/library/application support/many tricks"]
+windows = []

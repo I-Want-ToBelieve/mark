@@ -1,0 +1,7 @@
+[app]
+name = "Double Commander"
+
+[app.path]
+linux = ["$HOME/.config/doublecmd/doublecmd.ext", "$HOME/.config/doublecmd/wfx.ini", "$HOME/.config/doublecmd/shortcuts.scf", "$HOME/.config/doublecmd/doublecmd.xml"]
+macos = ["$HOME/.config/doublecmd/doublecmd.ext", "$HOME/.config/doublecmd/wfx.ini", "$HOME/.config/doublecmd/shortcuts.scf", "$HOME/.config/doublecmd/doublecmd.xml"]
+windows = []

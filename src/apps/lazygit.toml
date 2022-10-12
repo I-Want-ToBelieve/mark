@@ -1,0 +1,7 @@
+[app]
+name = "lazygit"
+
+[app.path]
+linux = ["$HOME/.config/lazygit/config.yml"]
+macos = ["$HOME/.config/lazygit/config.yml", "$HOME/library/application support/jesseduffield/lazygit/config.yml", "$HOME/library/application support/lazygit/config.yml"]
+windows = []

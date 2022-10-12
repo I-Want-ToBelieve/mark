@@ -1,0 +1,7 @@
+[app]
+name = "rclone"
+
+[app.path]
+linux = ["$HOME/.config/rclone"]
+macos = ["$HOME/.config/rclone"]
+windows = []

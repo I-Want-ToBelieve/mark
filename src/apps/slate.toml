@@ -1,0 +1,7 @@
+[app]
+name = "Slate"
+
+[app.path]
+linux = ["$HOME/.slate.js", "$HOME/.slate"]
+macos = ["$HOME/.slate.js", "$HOME/.slate", "$HOME/library/application support/com.slate.slate"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "HyperSwitch"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.bahoom.hyperswitch.plist"]
+windows = []

@@ -1,0 +1,7 @@
+[app]
+name = "Scripts"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/scripts"]
+windows = []

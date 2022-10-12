@@ -1,0 +1,7 @@
+[app]
+name = "Quicksilver"
+
+[app.path]
+linux = []
+macos = ["$HOME/library/preferences/com.blacktree.quicksilver.plist", "$HOME/library/application support/quicksilver"]
+windows = []

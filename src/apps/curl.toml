@@ -1,0 +1,7 @@
+[app]
+name = "Curl"
+
+[app.path]
+linux = ["$HOME/.netrc", "$HOME/.curlrc"]
+macos = ["$HOME/.netrc", "$HOME/.curlrc"]
+windows = []

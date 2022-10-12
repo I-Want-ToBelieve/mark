@@ -1,0 +1,7 @@
+[app]
+name = "Blender"
+
+[app.path]
+linux = ["$HOME/.config/blender"]
+macos = ["$HOME/.config/blender", "$HOME/library/application support/blender"]
+windows = []
